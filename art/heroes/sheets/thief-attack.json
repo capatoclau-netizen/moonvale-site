@@ -1,0 +1,700 @@
+{
+ "frames": {
+  "thief-attack-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-01": {
+   "frame": {
+    "x": 151,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-02": {
+   "frame": {
+    "x": 302,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-03": {
+   "frame": {
+    "x": 453,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-04": {
+   "frame": {
+    "x": 604,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-05": {
+   "frame": {
+    "x": 755,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-06": {
+   "frame": {
+    "x": 906,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-07": {
+   "frame": {
+    "x": 1057,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-08": {
+   "frame": {
+    "x": 1208,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-09": {
+   "frame": {
+    "x": 1359,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-10": {
+   "frame": {
+    "x": 1510,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-11": {
+   "frame": {
+    "x": 1661,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-12": {
+   "frame": {
+    "x": 1812,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-13": {
+   "frame": {
+    "x": 1963,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-14": {
+   "frame": {
+    "x": 2114,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-15": {
+   "frame": {
+    "x": 2265,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-16": {
+   "frame": {
+    "x": 2416,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-17": {
+   "frame": {
+    "x": 2567,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-18": {
+   "frame": {
+    "x": 2718,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-19": {
+   "frame": {
+    "x": 2869,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-20": {
+   "frame": {
+    "x": 3020,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-21": {
+   "frame": {
+    "x": 3171,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-22": {
+   "frame": {
+    "x": 3322,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-23": {
+   "frame": {
+    "x": 3473,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-24": {
+   "frame": {
+    "x": 3624,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-25": {
+   "frame": {
+    "x": 3775,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-26": {
+   "frame": {
+    "x": 3926,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-27": {
+   "frame": {
+    "x": 4077,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-28": {
+   "frame": {
+    "x": 4228,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-29": {
+   "frame": {
+    "x": 4379,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-30": {
+   "frame": {
+    "x": 4530,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-31": {
+   "frame": {
+    "x": 4681,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-32": {
+   "frame": {
+    "x": 4832,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-33": {
+   "frame": {
+    "x": 4983,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-34": {
+   "frame": {
+    "x": 5134,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-attack-35": {
+   "frame": {
+    "x": 5285,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "attack": [
+   "thief-attack-00",
+   "thief-attack-01",
+   "thief-attack-02",
+   "thief-attack-03",
+   "thief-attack-04",
+   "thief-attack-05",
+   "thief-attack-06",
+   "thief-attack-07",
+   "thief-attack-08",
+   "thief-attack-09",
+   "thief-attack-10",
+   "thief-attack-11",
+   "thief-attack-12",
+   "thief-attack-13",
+   "thief-attack-14",
+   "thief-attack-15",
+   "thief-attack-16",
+   "thief-attack-17",
+   "thief-attack-18",
+   "thief-attack-19",
+   "thief-attack-20",
+   "thief-attack-21",
+   "thief-attack-22",
+   "thief-attack-23",
+   "thief-attack-24",
+   "thief-attack-25",
+   "thief-attack-26",
+   "thief-attack-27",
+   "thief-attack-28",
+   "thief-attack-29",
+   "thief-attack-30",
+   "thief-attack-31",
+   "thief-attack-32",
+   "thief-attack-33",
+   "thief-attack-34",
+   "thief-attack-35"
+  ]
+ },
+ "meta": {
+  "image": "thief-attack.png",
+  "size": {
+   "w": 5436,
+   "h": 96
+  },
+  "scale": "1"
+ }
+}

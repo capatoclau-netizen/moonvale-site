@@ -1,0 +1,1384 @@
+{
+ "frames": {
+  "priest-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-01": {
+   "frame": {
+    "x": 92,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-02": {
+   "frame": {
+    "x": 184,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-03": {
+   "frame": {
+    "x": 276,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-04": {
+   "frame": {
+    "x": 368,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-05": {
+   "frame": {
+    "x": 460,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-06": {
+   "frame": {
+    "x": 552,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-07": {
+   "frame": {
+    "x": 644,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-08": {
+   "frame": {
+    "x": 736,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-09": {
+   "frame": {
+    "x": 828,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-10": {
+   "frame": {
+    "x": 920,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-11": {
+   "frame": {
+    "x": 1012,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-12": {
+   "frame": {
+    "x": 1104,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-13": {
+   "frame": {
+    "x": 1196,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-14": {
+   "frame": {
+    "x": 1288,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-15": {
+   "frame": {
+    "x": 1380,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-16": {
+   "frame": {
+    "x": 1472,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-17": {
+   "frame": {
+    "x": 1564,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-18": {
+   "frame": {
+    "x": 1656,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-19": {
+   "frame": {
+    "x": 1748,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-20": {
+   "frame": {
+    "x": 1840,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-21": {
+   "frame": {
+    "x": 1932,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-22": {
+   "frame": {
+    "x": 2024,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-23": {
+   "frame": {
+    "x": 2116,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-24": {
+   "frame": {
+    "x": 2208,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-25": {
+   "frame": {
+    "x": 2300,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-26": {
+   "frame": {
+    "x": 2392,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-27": {
+   "frame": {
+    "x": 2484,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-28": {
+   "frame": {
+    "x": 2576,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-29": {
+   "frame": {
+    "x": 2668,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-30": {
+   "frame": {
+    "x": 2760,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-31": {
+   "frame": {
+    "x": 2852,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-32": {
+   "frame": {
+    "x": 2944,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-33": {
+   "frame": {
+    "x": 3036,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-34": {
+   "frame": {
+    "x": 3128,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-35": {
+   "frame": {
+    "x": 3220,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-36": {
+   "frame": {
+    "x": 3312,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-37": {
+   "frame": {
+    "x": 3404,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-38": {
+   "frame": {
+    "x": 3496,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-39": {
+   "frame": {
+    "x": 3588,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-40": {
+   "frame": {
+    "x": 3680,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-41": {
+   "frame": {
+    "x": 3772,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-42": {
+   "frame": {
+    "x": 3864,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-43": {
+   "frame": {
+    "x": 3956,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-44": {
+   "frame": {
+    "x": 4048,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-45": {
+   "frame": {
+    "x": 4140,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-46": {
+   "frame": {
+    "x": 4232,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-47": {
+   "frame": {
+    "x": 4324,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-48": {
+   "frame": {
+    "x": 4416,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-49": {
+   "frame": {
+    "x": 4508,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-50": {
+   "frame": {
+    "x": 4600,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-51": {
+   "frame": {
+    "x": 4692,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-52": {
+   "frame": {
+    "x": 4784,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-53": {
+   "frame": {
+    "x": 4876,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-54": {
+   "frame": {
+    "x": 4968,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-55": {
+   "frame": {
+    "x": 5060,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-56": {
+   "frame": {
+    "x": 5152,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-57": {
+   "frame": {
+    "x": 5244,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-58": {
+   "frame": {
+    "x": 5336,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-59": {
+   "frame": {
+    "x": 5428,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-60": {
+   "frame": {
+    "x": 5520,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-61": {
+   "frame": {
+    "x": 5612,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-62": {
+   "frame": {
+    "x": 5704,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-63": {
+   "frame": {
+    "x": 5796,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-64": {
+   "frame": {
+    "x": 5888,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-65": {
+   "frame": {
+    "x": 5980,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-66": {
+   "frame": {
+    "x": 6072,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-67": {
+   "frame": {
+    "x": 6164,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-68": {
+   "frame": {
+    "x": 6256,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-69": {
+   "frame": {
+    "x": 6348,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-70": {
+   "frame": {
+    "x": 6440,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  },
+  "priest-idle-71": {
+   "frame": {
+    "x": 6532,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 92,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 92,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "priest-idle-00",
+   "priest-idle-01",
+   "priest-idle-02",
+   "priest-idle-03",
+   "priest-idle-04",
+   "priest-idle-05",
+   "priest-idle-06",
+   "priest-idle-07",
+   "priest-idle-08",
+   "priest-idle-09",
+   "priest-idle-10",
+   "priest-idle-11",
+   "priest-idle-12",
+   "priest-idle-13",
+   "priest-idle-14",
+   "priest-idle-15",
+   "priest-idle-16",
+   "priest-idle-17",
+   "priest-idle-18",
+   "priest-idle-19",
+   "priest-idle-20",
+   "priest-idle-21",
+   "priest-idle-22",
+   "priest-idle-23",
+   "priest-idle-24",
+   "priest-idle-25",
+   "priest-idle-26",
+   "priest-idle-27",
+   "priest-idle-28",
+   "priest-idle-29",
+   "priest-idle-30",
+   "priest-idle-31",
+   "priest-idle-32",
+   "priest-idle-33",
+   "priest-idle-34",
+   "priest-idle-35",
+   "priest-idle-36",
+   "priest-idle-37",
+   "priest-idle-38",
+   "priest-idle-39",
+   "priest-idle-40",
+   "priest-idle-41",
+   "priest-idle-42",
+   "priest-idle-43",
+   "priest-idle-44",
+   "priest-idle-45",
+   "priest-idle-46",
+   "priest-idle-47",
+   "priest-idle-48",
+   "priest-idle-49",
+   "priest-idle-50",
+   "priest-idle-51",
+   "priest-idle-52",
+   "priest-idle-53",
+   "priest-idle-54",
+   "priest-idle-55",
+   "priest-idle-56",
+   "priest-idle-57",
+   "priest-idle-58",
+   "priest-idle-59",
+   "priest-idle-60",
+   "priest-idle-61",
+   "priest-idle-62",
+   "priest-idle-63",
+   "priest-idle-64",
+   "priest-idle-65",
+   "priest-idle-66",
+   "priest-idle-67",
+   "priest-idle-68",
+   "priest-idle-69",
+   "priest-idle-70",
+   "priest-idle-71"
+  ]
+ },
+ "meta": {
+  "image": "priest-idle.png",
+  "size": {
+   "w": 6624,
+   "h": 96
+  },
+  "scale": "1"
+ }
+}

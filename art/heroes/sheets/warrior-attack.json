@@ -1,0 +1,700 @@
+{
+ "frames": {
+  "warrior-attack-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-01": {
+   "frame": {
+    "x": 164,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-02": {
+   "frame": {
+    "x": 328,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-03": {
+   "frame": {
+    "x": 492,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-04": {
+   "frame": {
+    "x": 656,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-05": {
+   "frame": {
+    "x": 820,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-06": {
+   "frame": {
+    "x": 984,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-07": {
+   "frame": {
+    "x": 1148,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-08": {
+   "frame": {
+    "x": 1312,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-09": {
+   "frame": {
+    "x": 1476,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-10": {
+   "frame": {
+    "x": 1640,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-11": {
+   "frame": {
+    "x": 1804,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-12": {
+   "frame": {
+    "x": 1968,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-13": {
+   "frame": {
+    "x": 2132,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-14": {
+   "frame": {
+    "x": 2296,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-15": {
+   "frame": {
+    "x": 2460,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-16": {
+   "frame": {
+    "x": 2624,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-17": {
+   "frame": {
+    "x": 2788,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-18": {
+   "frame": {
+    "x": 2952,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-19": {
+   "frame": {
+    "x": 3116,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-20": {
+   "frame": {
+    "x": 3280,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-21": {
+   "frame": {
+    "x": 3444,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-22": {
+   "frame": {
+    "x": 3608,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-23": {
+   "frame": {
+    "x": 3772,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-24": {
+   "frame": {
+    "x": 3936,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-25": {
+   "frame": {
+    "x": 4100,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-26": {
+   "frame": {
+    "x": 4264,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-27": {
+   "frame": {
+    "x": 4428,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-28": {
+   "frame": {
+    "x": 4592,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-29": {
+   "frame": {
+    "x": 4756,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-30": {
+   "frame": {
+    "x": 4920,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-31": {
+   "frame": {
+    "x": 5084,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-32": {
+   "frame": {
+    "x": 5248,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-33": {
+   "frame": {
+    "x": 5412,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-34": {
+   "frame": {
+    "x": 5576,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  },
+  "warrior-attack-35": {
+   "frame": {
+    "x": 5740,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 164,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 164,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "attack": [
+   "warrior-attack-00",
+   "warrior-attack-01",
+   "warrior-attack-02",
+   "warrior-attack-03",
+   "warrior-attack-04",
+   "warrior-attack-05",
+   "warrior-attack-06",
+   "warrior-attack-07",
+   "warrior-attack-08",
+   "warrior-attack-09",
+   "warrior-attack-10",
+   "warrior-attack-11",
+   "warrior-attack-12",
+   "warrior-attack-13",
+   "warrior-attack-14",
+   "warrior-attack-15",
+   "warrior-attack-16",
+   "warrior-attack-17",
+   "warrior-attack-18",
+   "warrior-attack-19",
+   "warrior-attack-20",
+   "warrior-attack-21",
+   "warrior-attack-22",
+   "warrior-attack-23",
+   "warrior-attack-24",
+   "warrior-attack-25",
+   "warrior-attack-26",
+   "warrior-attack-27",
+   "warrior-attack-28",
+   "warrior-attack-29",
+   "warrior-attack-30",
+   "warrior-attack-31",
+   "warrior-attack-32",
+   "warrior-attack-33",
+   "warrior-attack-34",
+   "warrior-attack-35"
+  ]
+ },
+ "meta": {
+  "image": "warrior-attack.png",
+  "size": {
+   "w": 5904,
+   "h": 96
+  },
+  "scale": "1"
+ }
+}
