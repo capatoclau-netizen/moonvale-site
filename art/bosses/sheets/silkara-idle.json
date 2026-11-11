@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "silkara-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-01": {
+   "frame": {
+    "x": 203,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-02": {
+   "frame": {
+    "x": 406,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-03": {
+   "frame": {
+    "x": 609,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-04": {
+   "frame": {
+    "x": 812,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-05": {
+   "frame": {
+    "x": 1015,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-06": {
+   "frame": {
+    "x": 1218,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-07": {
+   "frame": {
+    "x": 1421,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-08": {
+   "frame": {
+    "x": 1624,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-09": {
+   "frame": {
+    "x": 1827,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-10": {
+   "frame": {
+    "x": 2030,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-11": {
+   "frame": {
+    "x": 2233,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-12": {
+   "frame": {
+    "x": 2436,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-13": {
+   "frame": {
+    "x": 2639,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-14": {
+   "frame": {
+    "x": 2842,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-15": {
+   "frame": {
+    "x": 3045,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-16": {
+   "frame": {
+    "x": 3248,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-17": {
+   "frame": {
+    "x": 3451,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-18": {
+   "frame": {
+    "x": 3654,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-19": {
+   "frame": {
+    "x": 3857,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-20": {
+   "frame": {
+    "x": 0,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-21": {
+   "frame": {
+    "x": 203,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-22": {
+   "frame": {
+    "x": 406,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-23": {
+   "frame": {
+    "x": 609,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-24": {
+   "frame": {
+    "x": 812,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-25": {
+   "frame": {
+    "x": 1015,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-26": {
+   "frame": {
+    "x": 1218,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-27": {
+   "frame": {
+    "x": 1421,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-28": {
+   "frame": {
+    "x": 1624,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  },
+  "silkara-idle-29": {
+   "frame": {
+    "x": 1827,
+    "y": 144,
+    "w": 203,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 203,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 203,
+    "h": 144
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "silkara-idle-00",
+   "silkara-idle-01",
+   "silkara-idle-02",
+   "silkara-idle-03",
+   "silkara-idle-04",
+   "silkara-idle-05",
+   "silkara-idle-06",
+   "silkara-idle-07",
+   "silkara-idle-08",
+   "silkara-idle-09",
+   "silkara-idle-10",
+   "silkara-idle-11",
+   "silkara-idle-12",
+   "silkara-idle-13",
+   "silkara-idle-14",
+   "silkara-idle-15",
+   "silkara-idle-16",
+   "silkara-idle-17",
+   "silkara-idle-18",
+   "silkara-idle-19",
+   "silkara-idle-20",
+   "silkara-idle-21",
+   "silkara-idle-22",
+   "silkara-idle-23",
+   "silkara-idle-24",
+   "silkara-idle-25",
+   "silkara-idle-26",
+   "silkara-idle-27",
+   "silkara-idle-28",
+   "silkara-idle-29"
+  ]
+ },
+ "meta": {
+  "image": "silkara-idle.png",
+  "size": {
+   "w": 4060,
+   "h": 288
+  },
+  "scale": "1"
+ }
+}

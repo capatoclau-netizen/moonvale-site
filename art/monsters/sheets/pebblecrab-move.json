@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "pebblecrab-move-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-01": {
+   "frame": {
+    "x": 119,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-02": {
+   "frame": {
+    "x": 238,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-03": {
+   "frame": {
+    "x": 357,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-04": {
+   "frame": {
+    "x": 476,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-05": {
+   "frame": {
+    "x": 595,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-06": {
+   "frame": {
+    "x": 714,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-07": {
+   "frame": {
+    "x": 833,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-08": {
+   "frame": {
+    "x": 952,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-09": {
+   "frame": {
+    "x": 1071,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-10": {
+   "frame": {
+    "x": 1190,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-11": {
+   "frame": {
+    "x": 1309,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-12": {
+   "frame": {
+    "x": 1428,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-13": {
+   "frame": {
+    "x": 1547,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-14": {
+   "frame": {
+    "x": 1666,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-15": {
+   "frame": {
+    "x": 1785,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-16": {
+   "frame": {
+    "x": 1904,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-17": {
+   "frame": {
+    "x": 2023,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-18": {
+   "frame": {
+    "x": 2142,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-19": {
+   "frame": {
+    "x": 2261,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-20": {
+   "frame": {
+    "x": 2380,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-21": {
+   "frame": {
+    "x": 2499,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-22": {
+   "frame": {
+    "x": 2618,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-23": {
+   "frame": {
+    "x": 2737,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-24": {
+   "frame": {
+    "x": 2856,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-25": {
+   "frame": {
+    "x": 2975,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-26": {
+   "frame": {
+    "x": 3094,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-27": {
+   "frame": {
+    "x": 3213,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-28": {
+   "frame": {
+    "x": 3332,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-29": {
+   "frame": {
+    "x": 3451,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-30": {
+   "frame": {
+    "x": 3570,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-31": {
+   "frame": {
+    "x": 3689,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-32": {
+   "frame": {
+    "x": 3808,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-33": {
+   "frame": {
+    "x": 3927,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-34": {
+   "frame": {
+    "x": 0,
+    "y": 80,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-35": {
+   "frame": {
+    "x": 119,
+    "y": 80,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  },
+  "pebblecrab-move-36": {
+   "frame": {
+    "x": 238,
+    "y": 80,
+    "w": 119,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 119,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 119,
+    "h": 80
+   }
+  }
+ },
+ "animations": {
+  "move": [
+   "pebblecrab-move-00",
+   "pebblecrab-move-01",
+   "pebblecrab-move-02",
+   "pebblecrab-move-03",
+   "pebblecrab-move-04",
+   "pebblecrab-move-05",
+   "pebblecrab-move-06",
+   "pebblecrab-move-07",
+   "pebblecrab-move-08",
+   "pebblecrab-move-09",
+   "pebblecrab-move-10",
+   "pebblecrab-move-11",
+   "pebblecrab-move-12",
+   "pebblecrab-move-13",
+   "pebblecrab-move-14",
+   "pebblecrab-move-15",
+   "pebblecrab-move-16",
+   "pebblecrab-move-17",
+   "pebblecrab-move-18",
+   "pebblecrab-move-19",
+   "pebblecrab-move-20",
+   "pebblecrab-move-21",
+   "pebblecrab-move-22",
+   "pebblecrab-move-23",
+   "pebblecrab-move-24",
+   "pebblecrab-move-25",
+   "pebblecrab-move-26",
+   "pebblecrab-move-27",
+   "pebblecrab-move-28",
+   "pebblecrab-move-29",
+   "pebblecrab-move-30",
+   "pebblecrab-move-31",
+   "pebblecrab-move-32",
+   "pebblecrab-move-33",
+   "pebblecrab-move-34",
+   "pebblecrab-move-35",
+   "pebblecrab-move-36"
+  ]
+ },
+ "meta": {
+  "image": "pebblecrab-move.png",
+  "size": {
+   "w": 4046,
+   "h": 160
+  },
+  "scale": "1"
+ }
+}

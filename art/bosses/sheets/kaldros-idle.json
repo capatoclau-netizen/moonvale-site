@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "kaldros-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-01": {
+   "frame": {
+    "x": 219,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-02": {
+   "frame": {
+    "x": 438,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-03": {
+   "frame": {
+    "x": 657,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-04": {
+   "frame": {
+    "x": 876,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-05": {
+   "frame": {
+    "x": 1095,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-06": {
+   "frame": {
+    "x": 1314,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-07": {
+   "frame": {
+    "x": 1533,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-08": {
+   "frame": {
+    "x": 1752,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-09": {
+   "frame": {
+    "x": 1971,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-10": {
+   "frame": {
+    "x": 2190,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-11": {
+   "frame": {
+    "x": 2409,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-12": {
+   "frame": {
+    "x": 2628,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-13": {
+   "frame": {
+    "x": 2847,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-14": {
+   "frame": {
+    "x": 3066,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-15": {
+   "frame": {
+    "x": 3285,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-16": {
+   "frame": {
+    "x": 3504,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-17": {
+   "frame": {
+    "x": 3723,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-18": {
+   "frame": {
+    "x": 0,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-19": {
+   "frame": {
+    "x": 219,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-20": {
+   "frame": {
+    "x": 438,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-21": {
+   "frame": {
+    "x": 657,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-22": {
+   "frame": {
+    "x": 876,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-23": {
+   "frame": {
+    "x": 1095,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-24": {
+   "frame": {
+    "x": 1314,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-25": {
+   "frame": {
+    "x": 1533,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-26": {
+   "frame": {
+    "x": 1752,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-27": {
+   "frame": {
+    "x": 1971,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-28": {
+   "frame": {
+    "x": 2190,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  },
+  "kaldros-idle-29": {
+   "frame": {
+    "x": 2409,
+    "y": 144,
+    "w": 219,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 219,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 219,
+    "h": 144
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "kaldros-idle-00",
+   "kaldros-idle-01",
+   "kaldros-idle-02",
+   "kaldros-idle-03",
+   "kaldros-idle-04",
+   "kaldros-idle-05",
+   "kaldros-idle-06",
+   "kaldros-idle-07",
+   "kaldros-idle-08",
+   "kaldros-idle-09",
+   "kaldros-idle-10",
+   "kaldros-idle-11",
+   "kaldros-idle-12",
+   "kaldros-idle-13",
+   "kaldros-idle-14",
+   "kaldros-idle-15",
+   "kaldros-idle-16",
+   "kaldros-idle-17",
+   "kaldros-idle-18",
+   "kaldros-idle-19",
+   "kaldros-idle-20",
+   "kaldros-idle-21",
+   "kaldros-idle-22",
+   "kaldros-idle-23",
+   "kaldros-idle-24",
+   "kaldros-idle-25",
+   "kaldros-idle-26",
+   "kaldros-idle-27",
+   "kaldros-idle-28",
+   "kaldros-idle-29"
+  ]
+ },
+ "meta": {
+  "image": "kaldros-idle.png",
+  "size": {
+   "w": 3942,
+   "h": 288
+  },
+  "scale": "1"
+ }
+}

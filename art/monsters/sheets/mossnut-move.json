@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "mossnut-move-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-01": {
+   "frame": {
+    "x": 74,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-02": {
+   "frame": {
+    "x": 148,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-03": {
+   "frame": {
+    "x": 222,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-04": {
+   "frame": {
+    "x": 296,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-05": {
+   "frame": {
+    "x": 370,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-06": {
+   "frame": {
+    "x": 444,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-07": {
+   "frame": {
+    "x": 518,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-08": {
+   "frame": {
+    "x": 592,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-09": {
+   "frame": {
+    "x": 666,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-10": {
+   "frame": {
+    "x": 740,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-11": {
+   "frame": {
+    "x": 814,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-12": {
+   "frame": {
+    "x": 888,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-13": {
+   "frame": {
+    "x": 962,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-14": {
+   "frame": {
+    "x": 1036,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-15": {
+   "frame": {
+    "x": 1110,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-16": {
+   "frame": {
+    "x": 1184,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-17": {
+   "frame": {
+    "x": 1258,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-18": {
+   "frame": {
+    "x": 1332,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-19": {
+   "frame": {
+    "x": 1406,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-20": {
+   "frame": {
+    "x": 1480,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-21": {
+   "frame": {
+    "x": 1554,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-22": {
+   "frame": {
+    "x": 1628,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-23": {
+   "frame": {
+    "x": 1702,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-24": {
+   "frame": {
+    "x": 1776,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-25": {
+   "frame": {
+    "x": 1850,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-26": {
+   "frame": {
+    "x": 1924,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-27": {
+   "frame": {
+    "x": 1998,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-28": {
+   "frame": {
+    "x": 2072,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-29": {
+   "frame": {
+    "x": 2146,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-30": {
+   "frame": {
+    "x": 2220,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-31": {
+   "frame": {
+    "x": 2294,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-32": {
+   "frame": {
+    "x": 2368,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-33": {
+   "frame": {
+    "x": 2442,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-34": {
+   "frame": {
+    "x": 2516,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-35": {
+   "frame": {
+    "x": 2590,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  },
+  "mossnut-move-36": {
+   "frame": {
+    "x": 2664,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 74,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 74,
+    "h": 80
+   }
+  }
+ },
+ "animations": {
+  "move": [
+   "mossnut-move-00",
+   "mossnut-move-01",
+   "mossnut-move-02",
+   "mossnut-move-03",
+   "mossnut-move-04",
+   "mossnut-move-05",
+   "mossnut-move-06",
+   "mossnut-move-07",
+   "mossnut-move-08",
+   "mossnut-move-09",
+   "mossnut-move-10",
+   "mossnut-move-11",
+   "mossnut-move-12",
+   "mossnut-move-13",
+   "mossnut-move-14",
+   "mossnut-move-15",
+   "mossnut-move-16",
+   "mossnut-move-17",
+   "mossnut-move-18",
+   "mossnut-move-19",
+   "mossnut-move-20",
+   "mossnut-move-21",
+   "mossnut-move-22",
+   "mossnut-move-23",
+   "mossnut-move-24",
+   "mossnut-move-25",
+   "mossnut-move-26",
+   "mossnut-move-27",
+   "mossnut-move-28",
+   "mossnut-move-29",
+   "mossnut-move-30",
+   "mossnut-move-31",
+   "mossnut-move-32",
+   "mossnut-move-33",
+   "mossnut-move-34",
+   "mossnut-move-35",
+   "mossnut-move-36"
+  ]
+ },
+ "meta": {
+  "image": "mossnut-move.png",
+  "size": {
+   "w": 2738,
+   "h": 80
+  },
+  "scale": "1"
+ }
+}

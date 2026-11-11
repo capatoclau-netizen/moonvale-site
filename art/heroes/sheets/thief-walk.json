@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "thief-walk-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-01": {
+   "frame": {
+    "x": 85,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-02": {
+   "frame": {
+    "x": 170,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-03": {
+   "frame": {
+    "x": 255,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-04": {
+   "frame": {
+    "x": 340,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-05": {
+   "frame": {
+    "x": 425,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-06": {
+   "frame": {
+    "x": 510,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-07": {
+   "frame": {
+    "x": 595,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-08": {
+   "frame": {
+    "x": 680,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-09": {
+   "frame": {
+    "x": 765,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-10": {
+   "frame": {
+    "x": 850,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-11": {
+   "frame": {
+    "x": 935,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-12": {
+   "frame": {
+    "x": 1020,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-13": {
+   "frame": {
+    "x": 1105,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-14": {
+   "frame": {
+    "x": 1190,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-15": {
+   "frame": {
+    "x": 1275,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-16": {
+   "frame": {
+    "x": 1360,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-17": {
+   "frame": {
+    "x": 1445,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-18": {
+   "frame": {
+    "x": 1530,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-19": {
+   "frame": {
+    "x": 1615,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-20": {
+   "frame": {
+    "x": 1700,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-21": {
+   "frame": {
+    "x": 1785,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-22": {
+   "frame": {
+    "x": 1870,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-23": {
+   "frame": {
+    "x": 1955,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-24": {
+   "frame": {
+    "x": 2040,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-25": {
+   "frame": {
+    "x": 2125,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-26": {
+   "frame": {
+    "x": 2210,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-27": {
+   "frame": {
+    "x": 2295,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-28": {
+   "frame": {
+    "x": 2380,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-29": {
+   "frame": {
+    "x": 2465,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-30": {
+   "frame": {
+    "x": 2550,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-31": {
+   "frame": {
+    "x": 2635,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-32": {
+   "frame": {
+    "x": 2720,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-33": {
+   "frame": {
+    "x": 2805,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-34": {
+   "frame": {
+    "x": 2890,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-35": {
+   "frame": {
+    "x": 2975,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  },
+  "thief-walk-36": {
+   "frame": {
+    "x": 3060,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 85,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 85,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "walk": [
+   "thief-walk-00",
+   "thief-walk-01",
+   "thief-walk-02",
+   "thief-walk-03",
+   "thief-walk-04",
+   "thief-walk-05",
+   "thief-walk-06",
+   "thief-walk-07",
+   "thief-walk-08",
+   "thief-walk-09",
+   "thief-walk-10",
+   "thief-walk-11",
+   "thief-walk-12",
+   "thief-walk-13",
+   "thief-walk-14",
+   "thief-walk-15",
+   "thief-walk-16",
+   "thief-walk-17",
+   "thief-walk-18",
+   "thief-walk-19",
+   "thief-walk-20",
+   "thief-walk-21",
+   "thief-walk-22",
+   "thief-walk-23",
+   "thief-walk-24",
+   "thief-walk-25",
+   "thief-walk-26",
+   "thief-walk-27",
+   "thief-walk-28",
+   "thief-walk-29",
+   "thief-walk-30",
+   "thief-walk-31",
+   "thief-walk-32",
+   "thief-walk-33",
+   "thief-walk-34",
+   "thief-walk-35",
+   "thief-walk-36"
+  ]
+ },
+ "meta": {
+  "image": "thief-walk.png",
+  "size": {
+   "w": 3145,
+   "h": 96
+  },
+  "scale": "1"
+ }
+}

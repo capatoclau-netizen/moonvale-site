@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "frostmane-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-01": {
+   "frame": {
+    "x": 232,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-02": {
+   "frame": {
+    "x": 464,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-03": {
+   "frame": {
+    "x": 696,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-04": {
+   "frame": {
+    "x": 928,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-05": {
+   "frame": {
+    "x": 1160,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-06": {
+   "frame": {
+    "x": 1392,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-07": {
+   "frame": {
+    "x": 1624,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-08": {
+   "frame": {
+    "x": 1856,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-09": {
+   "frame": {
+    "x": 2088,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-10": {
+   "frame": {
+    "x": 2320,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-11": {
+   "frame": {
+    "x": 2552,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-12": {
+   "frame": {
+    "x": 2784,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-13": {
+   "frame": {
+    "x": 3016,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-14": {
+   "frame": {
+    "x": 3248,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-15": {
+   "frame": {
+    "x": 3480,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-16": {
+   "frame": {
+    "x": 3712,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-17": {
+   "frame": {
+    "x": 0,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-18": {
+   "frame": {
+    "x": 232,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-19": {
+   "frame": {
+    "x": 464,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-20": {
+   "frame": {
+    "x": 696,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-21": {
+   "frame": {
+    "x": 928,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-22": {
+   "frame": {
+    "x": 1160,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-23": {
+   "frame": {
+    "x": 1392,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-24": {
+   "frame": {
+    "x": 1624,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-25": {
+   "frame": {
+    "x": 1856,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-26": {
+   "frame": {
+    "x": 2088,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-27": {
+   "frame": {
+    "x": 2320,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-28": {
+   "frame": {
+    "x": 2552,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  },
+  "frostmane-idle-29": {
+   "frame": {
+    "x": 2784,
+    "y": 144,
+    "w": 232,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 232,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 232,
+    "h": 144
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "frostmane-idle-00",
+   "frostmane-idle-01",
+   "frostmane-idle-02",
+   "frostmane-idle-03",
+   "frostmane-idle-04",
+   "frostmane-idle-05",
+   "frostmane-idle-06",
+   "frostmane-idle-07",
+   "frostmane-idle-08",
+   "frostmane-idle-09",
+   "frostmane-idle-10",
+   "frostmane-idle-11",
+   "frostmane-idle-12",
+   "frostmane-idle-13",
+   "frostmane-idle-14",
+   "frostmane-idle-15",
+   "frostmane-idle-16",
+   "frostmane-idle-17",
+   "frostmane-idle-18",
+   "frostmane-idle-19",
+   "frostmane-idle-20",
+   "frostmane-idle-21",
+   "frostmane-idle-22",
+   "frostmane-idle-23",
+   "frostmane-idle-24",
+   "frostmane-idle-25",
+   "frostmane-idle-26",
+   "frostmane-idle-27",
+   "frostmane-idle-28",
+   "frostmane-idle-29"
+  ]
+ },
+ "meta": {
+  "image": "frostmane-idle.png",
+  "size": {
+   "w": 3944,
+   "h": 288
+  },
+  "scale": "1"
+ }
+}
