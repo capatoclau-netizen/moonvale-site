@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Moonvale Online · Presale</title>
+<meta name="description" content="Moonvale Online, an idle chibi MMO on Solana. Presale kits now open. Launch Saturday, Nov 14, 15:00 UTC." />
+<meta property="og:title" content="Moonvale Online · Presale" />
+<meta property="og:description" content="Idle chibi MMO on Solana. Launch Sat Nov 14, 15:00 UTC." />
+<meta property="og:image" content="/art/brand/og.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="icon" href="/art/brand/icon-512.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@600;800&family=Nunito:wght@600;800;900&display=swap" rel="stylesheet" />
+  <script type="module" crossorigin src="/assets/presale-WoqbH3fS.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/presale-DNzDb8Tw.css">
+</head>
+<body>
+<div class="sky" aria-hidden="true"><div class="stars s1"></div><div class="stars s2"></div><div class="moon"></div></div>
+
+<header class="top">
+  <a class="brand" href="#"><img src="/art/brand/icon-512.png" alt="" /><span>Moonvale</span></a>
+  <nav>
+    <a href="#kits">Kits</a><a href="#how">How it works</a><a href="#launch">Launch</a>
+    <a href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener">Discord</a>
+    <a href="https://x.com/Moonvaleonline" target="_blank" rel="noopener">X</a>
+  </nav>
+  <button class="btn wallet" id="walletBtn">Connect wallet</button>
+</header>
+
+<main>
+<section class="hero">
+  <img class="logo" src="/art/brand/logo.png" alt="Moonvale Online" />
+  <p class="tag">An idle chibi MMO on Solana. Build your party, clear the phases, hunt Mythic cards.</p>
+  <div class="count" id="count" aria-live="polite">
+    <div><b id="cd-d">00</b><span>days</span></div><i>:</i>
+    <div><b id="cd-h">00</b><span>hours</span></div><i>:</i>
+    <div><b id="cd-m">00</b><span>min</span></div><i>:</i>
+    <div><b id="cd-s">00</b><span>sec</span></div>
+  </div>
+  <p class="when">Launch · <b>Saturday, Nov 14 · 15:00 UTC</b> <span id="localTime"></span></p>
+  <a class="btn gold big" href="#kits">Get a presale kit</a>
+</section>
+
+<section class="field" aria-hidden="true">
+  <div class="party" id="party"></div>
+</section>
+
+<section id="kits" class="kits">
+  <h2><span>Presale kits</span></h2>
+  <p class="lead">Kits come with <b class="cy">Moonlit class skins</b>: one skin dresses the whole class and gives <b class="cy">+5% farm to every hero of that class</b>, even the ones you summon later. Keep the look or just the bonus. Everything lands in your account the moment the game opens.</p>
+  <div class="grid" id="kitGrid"></div>
+  <p class="fine">Kit heroes, gear and coins are locked to your account: you play with them, they can't be withdrawn. Farmed coins can be withdrawn after launch.</p>
+</section>
+
+<section id="how" class="how">
+  <h2><span>How the presale works</span></h2>
+  <ol>
+    <li><i>1</i><div><b>Connect your Solana wallet</b>Phantom, Solflare, Backpack or MetaMask. You sign a message to prove the wallet is yours. No transaction, no fee.</div></li>
+    <li><i>2</i><div><b>Pick a kit and pay in SOL</b>Your wallet shows the exact amount before you approve. The purchase is confirmed on-chain.</div></li>
+    <li><i>3</i><div><b>Play on launch day</b>Connect the same wallet on Saturday and your kit is already there.</div></li>
+  </ol>
+  <div class="split">
+    <div class="win">
+      <div class="wt">Where the SOL goes</div>
+      <div class="wb">
+        <div class="bar"><span style="width:50%">50% reserve</span><span style="width:50%">50% team</span></div>
+        <p>Half of every sale goes to the <b>reserve</b>, which buys the coin at launch and backs player payouts. The reserve wallet is public, so anyone can check it.</p>
+        <p class="addr">Reserve wallet: <code id="reserveAddr">published before launch</code></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="launch" class="launch">
+  <h2><span>Launch timeline</span></h2>
+  <div class="line">
+    <div class="st done"><b>Nov 10</b>Discord and X open</div>
+    <div class="st now"><b>Nov 11</b>Presale opens</div>
+    <div class="st"><b>Nov 13</b>Closed test ends</div>
+    <div class="st big"><b>Nov 14 · 15:00 UTC</b>Coin launch on pump.fun</div>
+    <div class="st big"><b>Nov 14 · 15:30 UTC</b>Game opens</div>
+  </div>
+  <p class="fine">The coin contract address is posted only on our official X and Discord at launch. Anyone sending you an address before that is a scammer.</p>
+</section>
+
+<section class="join">
+  <h2><span>Join the hunters</span></h2>
+  <div class="links">
+    <a class="btn gold" href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener">Join Discord</a>
+    <a class="btn ghost" href="https://x.com/Moonvaleonline" target="_blank" rel="noopener">Follow on X</a>
+  </div>
+</section>
+</main>
+
+<footer>© 2026 Moonvale Online · Original art and world. Play responsibly: crypto prices move, never spend what you can't afford to lose.</footer>
+
+<div class="modal" id="modal" hidden>
+  <div class="win mw">
+    <div class="wt"><span id="mTitle">Wallet</span><button class="x" id="mClose" aria-label="Close">×</button></div>
+    <div class="wb" id="mBody"></div>
+  </div>
+</div>
+
+</body>
+</html>

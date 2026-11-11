@@ -1,0 +1,107 @@
+{
+  "heroes": {
+    "warrior": {
+      "idle": "heroes/warrior-idle.webm",
+      "attack": "heroes/warrior-attack.webm",
+      "still": "heroes/warrior.png"
+    },
+    "priest": {
+      "idle": "heroes/priest-idle.webm",
+      "attack": "heroes/priest-attack.webm",
+      "still": "heroes/priest.png"
+    },
+    "mage": {
+      "idle": "heroes/mage-idle.webm",
+      "attack": "heroes/mage-attack.webm",
+      "still": "heroes/mage.png"
+    },
+    "thief": {
+      "idle": "heroes/thief-idle.webm",
+      "attack": "heroes/thief-attack.webm",
+      "still": "heroes/thief.png"
+    },
+    "archer": {
+      "idle": "heroes/archer-idle.webm",
+      "attack": "heroes/archer-attack.webm",
+      "still": "heroes/archer.png"
+    }
+  },
+  "monsters": {
+    "dewbun": "monsters/dewbun.png",
+    "mossnut": "monsters/mossnut.png",
+    "glimmoth": "monsters/glimmoth.png",
+    "pebblecrab": "monsters/pebblecrab.png",
+    "thornpup": "monsters/thornpup.png"
+  },
+  "bosses": {
+    "grumbark": "bosses/grumbark.png",
+    "nerith": "bosses/nerith.png",
+    "kaldros": "bosses/kaldros.png",
+    "frostmane": "bosses/frostmane.png",
+    "bogg": "bosses/bogg.png",
+    "ironjaw": "bosses/ironjaw.png",
+    "rook": "bosses/rook.png",
+    "silkara": "bosses/silkara.png",
+    "shepherd": "bosses/shepherd.png",
+    "nyx": "bosses/nyx.png"
+  },
+  "items": {
+    "leather-cap": "items/leather-cap.png",
+    "round-glasses": "items/round-glasses.png",
+    "cloth-scarf": "items/cloth-scarf.png",
+    "padded-tunic": "items/padded-tunic.png",
+    "iron-shortsword": "items/iron-shortsword.png",
+    "wooden-buckler": "items/wooden-buckler.png",
+    "travel-cape": "items/travel-cape.png",
+    "leather-boots": "items/leather-boots.png",
+    "copper-ring": "items/copper-ring.png",
+    "bead-necklace": "items/bead-necklace.png",
+    "plumed-steel-helm": "items/plumed-steel-helm.png",
+    "silver-monocle": "items/silver-monocle.png",
+    "steel-half-mask": "items/steel-half-mask.png",
+    "blue-chainmail": "items/blue-chainmail.png",
+    "silver-longsword": "items/silver-longsword.png",
+    "moon-kite-shield": "items/moon-kite-shield.png",
+    "blue-cape": "items/blue-cape.png",
+    "plated-boots": "items/plated-boots.png",
+    "sapphire-ring": "items/sapphire-ring.png",
+    "crystal-amulet": "items/crystal-amulet.png",
+    "horned-rune-helm": "items/horned-rune-helm.png",
+    "arcane-goggles": "items/arcane-goggles.png",
+    "rune-mouthguard": "items/rune-mouthguard.png",
+    "violet-plate": "items/violet-plate.png",
+    "runeblade": "items/runeblade.png",
+    "eye-tower-shield": "items/eye-tower-shield.png",
+    "starry-cloak": "items/starry-cloak.png",
+    "rune-greaves": "items/rune-greaves.png",
+    "amethyst-ring": "items/amethyst-ring.png",
+    "rune-pendant": "items/rune-pendant.png",
+    "winged-sun-crown": "items/winged-sun-crown.png",
+    "sun-visor": "items/sun-visor.png",
+    "lion-faceguard": "items/lion-faceguard.png",
+    "sunplate-armor": "items/sunplate-armor.png",
+    "radiant-greatsword": "items/radiant-greatsword.png",
+    "sun-disc-shield": "items/sun-disc-shield.png",
+    "white-gold-cape": "items/white-gold-cape.png",
+    "winged-boots": "items/winged-boots.png",
+    "ruby-sun-ring": "items/ruby-sun-ring.png",
+    "sun-medallion": "items/sun-medallion.png",
+    "crescent-crown": "items/crescent-crown.png",
+    "starlight-circlet": "items/starlight-circlet.png",
+    "moonveil-mask": "items/moonveil-mask.png",
+    "celestial-armor": "items/celestial-armor.png",
+    "moonblade": "items/moonblade.png",
+    "crescent-shield": "items/crescent-shield.png",
+    "night-sky-cloak": "items/night-sky-cloak.png",
+    "moonwalker-boots": "items/moonwalker-boots.png",
+    "eclipse-ring": "items/eclipse-ring.png",
+    "moonstone-pendant": "items/moonstone-pendant.png"
+  },
+  "maps": {
+    "meadow": "maps/meadow.jpg"
+  },
+  "brand": {
+    "logo": "brand/logo.png",
+    "icon512": "brand/icon-512.png"
+  }
+}
