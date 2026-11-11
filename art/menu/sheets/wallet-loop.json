@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "wallet-loop-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-01": {
+   "frame": {
+    "x": 141,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-02": {
+   "frame": {
+    "x": 282,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-03": {
+   "frame": {
+    "x": 423,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-04": {
+   "frame": {
+    "x": 564,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-05": {
+   "frame": {
+    "x": 705,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-06": {
+   "frame": {
+    "x": 846,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-07": {
+   "frame": {
+    "x": 987,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-08": {
+   "frame": {
+    "x": 1128,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-09": {
+   "frame": {
+    "x": 1269,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-10": {
+   "frame": {
+    "x": 1410,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-11": {
+   "frame": {
+    "x": 1551,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-12": {
+   "frame": {
+    "x": 1692,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-13": {
+   "frame": {
+    "x": 1833,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-14": {
+   "frame": {
+    "x": 1974,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-15": {
+   "frame": {
+    "x": 2115,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-16": {
+   "frame": {
+    "x": 2256,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-17": {
+   "frame": {
+    "x": 2397,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-18": {
+   "frame": {
+    "x": 2538,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-19": {
+   "frame": {
+    "x": 2679,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-20": {
+   "frame": {
+    "x": 2820,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-21": {
+   "frame": {
+    "x": 2961,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-22": {
+   "frame": {
+    "x": 3102,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-23": {
+   "frame": {
+    "x": 3243,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-24": {
+   "frame": {
+    "x": 3384,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-25": {
+   "frame": {
+    "x": 3525,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-26": {
+   "frame": {
+    "x": 3666,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-27": {
+   "frame": {
+    "x": 3807,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-28": {
+   "frame": {
+    "x": 3948,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  },
+  "wallet-loop-29": {
+   "frame": {
+    "x": 0,
+    "y": 160,
+    "w": 141,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 141,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 141,
+    "h": 160
+   }
+  }
+ },
+ "animations": {
+  "loop": [
+   "wallet-loop-00",
+   "wallet-loop-01",
+   "wallet-loop-02",
+   "wallet-loop-03",
+   "wallet-loop-04",
+   "wallet-loop-05",
+   "wallet-loop-06",
+   "wallet-loop-07",
+   "wallet-loop-08",
+   "wallet-loop-09",
+   "wallet-loop-10",
+   "wallet-loop-11",
+   "wallet-loop-12",
+   "wallet-loop-13",
+   "wallet-loop-14",
+   "wallet-loop-15",
+   "wallet-loop-16",
+   "wallet-loop-17",
+   "wallet-loop-18",
+   "wallet-loop-19",
+   "wallet-loop-20",
+   "wallet-loop-21",
+   "wallet-loop-22",
+   "wallet-loop-23",
+   "wallet-loop-24",
+   "wallet-loop-25",
+   "wallet-loop-26",
+   "wallet-loop-27",
+   "wallet-loop-28",
+   "wallet-loop-29"
+  ]
+ },
+ "meta": {
+  "image": "wallet-loop.png",
+  "size": {
+   "w": 4089,
+   "h": 320
+  },
+  "scale": "1"
+ }
+}

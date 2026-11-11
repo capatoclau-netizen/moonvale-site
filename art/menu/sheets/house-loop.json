@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "house-loop-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-01": {
+   "frame": {
+    "x": 152,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-02": {
+   "frame": {
+    "x": 304,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-03": {
+   "frame": {
+    "x": 456,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-04": {
+   "frame": {
+    "x": 608,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-05": {
+   "frame": {
+    "x": 760,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-06": {
+   "frame": {
+    "x": 912,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-07": {
+   "frame": {
+    "x": 1064,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-08": {
+   "frame": {
+    "x": 1216,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-09": {
+   "frame": {
+    "x": 1368,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-10": {
+   "frame": {
+    "x": 1520,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-11": {
+   "frame": {
+    "x": 1672,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-12": {
+   "frame": {
+    "x": 1824,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-13": {
+   "frame": {
+    "x": 1976,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-14": {
+   "frame": {
+    "x": 2128,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-15": {
+   "frame": {
+    "x": 2280,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-16": {
+   "frame": {
+    "x": 2432,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-17": {
+   "frame": {
+    "x": 2584,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-18": {
+   "frame": {
+    "x": 2736,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-19": {
+   "frame": {
+    "x": 2888,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-20": {
+   "frame": {
+    "x": 3040,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-21": {
+   "frame": {
+    "x": 3192,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-22": {
+   "frame": {
+    "x": 3344,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-23": {
+   "frame": {
+    "x": 3496,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-24": {
+   "frame": {
+    "x": 3648,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-25": {
+   "frame": {
+    "x": 3800,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-26": {
+   "frame": {
+    "x": 0,
+    "y": 160,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-27": {
+   "frame": {
+    "x": 152,
+    "y": 160,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-28": {
+   "frame": {
+    "x": 304,
+    "y": 160,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  },
+  "house-loop-29": {
+   "frame": {
+    "x": 456,
+    "y": 160,
+    "w": 152,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 152,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 152,
+    "h": 160
+   }
+  }
+ },
+ "animations": {
+  "loop": [
+   "house-loop-00",
+   "house-loop-01",
+   "house-loop-02",
+   "house-loop-03",
+   "house-loop-04",
+   "house-loop-05",
+   "house-loop-06",
+   "house-loop-07",
+   "house-loop-08",
+   "house-loop-09",
+   "house-loop-10",
+   "house-loop-11",
+   "house-loop-12",
+   "house-loop-13",
+   "house-loop-14",
+   "house-loop-15",
+   "house-loop-16",
+   "house-loop-17",
+   "house-loop-18",
+   "house-loop-19",
+   "house-loop-20",
+   "house-loop-21",
+   "house-loop-22",
+   "house-loop-23",
+   "house-loop-24",
+   "house-loop-25",
+   "house-loop-26",
+   "house-loop-27",
+   "house-loop-28",
+   "house-loop-29"
+  ]
+ },
+ "meta": {
+  "image": "house-loop.png",
+  "size": {
+   "w": 3952,
+   "h": 320
+  },
+  "scale": "1"
+ }
+}

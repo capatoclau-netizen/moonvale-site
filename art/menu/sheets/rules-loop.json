@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "rules-loop-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-01": {
+   "frame": {
+    "x": 177,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-02": {
+   "frame": {
+    "x": 354,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-03": {
+   "frame": {
+    "x": 531,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-04": {
+   "frame": {
+    "x": 708,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-05": {
+   "frame": {
+    "x": 885,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-06": {
+   "frame": {
+    "x": 1062,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-07": {
+   "frame": {
+    "x": 1239,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-08": {
+   "frame": {
+    "x": 1416,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-09": {
+   "frame": {
+    "x": 1593,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-10": {
+   "frame": {
+    "x": 1770,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-11": {
+   "frame": {
+    "x": 1947,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-12": {
+   "frame": {
+    "x": 2124,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-13": {
+   "frame": {
+    "x": 2301,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-14": {
+   "frame": {
+    "x": 2478,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-15": {
+   "frame": {
+    "x": 2655,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-16": {
+   "frame": {
+    "x": 2832,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-17": {
+   "frame": {
+    "x": 3009,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-18": {
+   "frame": {
+    "x": 3186,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-19": {
+   "frame": {
+    "x": 3363,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-20": {
+   "frame": {
+    "x": 3540,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-21": {
+   "frame": {
+    "x": 3717,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-22": {
+   "frame": {
+    "x": 3894,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-23": {
+   "frame": {
+    "x": 0,
+    "y": 160,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-24": {
+   "frame": {
+    "x": 177,
+    "y": 160,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-25": {
+   "frame": {
+    "x": 354,
+    "y": 160,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-26": {
+   "frame": {
+    "x": 531,
+    "y": 160,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-27": {
+   "frame": {
+    "x": 708,
+    "y": 160,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-28": {
+   "frame": {
+    "x": 885,
+    "y": 160,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  },
+  "rules-loop-29": {
+   "frame": {
+    "x": 1062,
+    "y": 160,
+    "w": 177,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 177,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 177,
+    "h": 160
+   }
+  }
+ },
+ "animations": {
+  "loop": [
+   "rules-loop-00",
+   "rules-loop-01",
+   "rules-loop-02",
+   "rules-loop-03",
+   "rules-loop-04",
+   "rules-loop-05",
+   "rules-loop-06",
+   "rules-loop-07",
+   "rules-loop-08",
+   "rules-loop-09",
+   "rules-loop-10",
+   "rules-loop-11",
+   "rules-loop-12",
+   "rules-loop-13",
+   "rules-loop-14",
+   "rules-loop-15",
+   "rules-loop-16",
+   "rules-loop-17",
+   "rules-loop-18",
+   "rules-loop-19",
+   "rules-loop-20",
+   "rules-loop-21",
+   "rules-loop-22",
+   "rules-loop-23",
+   "rules-loop-24",
+   "rules-loop-25",
+   "rules-loop-26",
+   "rules-loop-27",
+   "rules-loop-28",
+   "rules-loop-29"
+  ]
+ },
+ "meta": {
+  "image": "rules-loop.png",
+  "size": {
+   "w": 4071,
+   "h": 320
+  },
+  "scale": "1"
+ }
+}

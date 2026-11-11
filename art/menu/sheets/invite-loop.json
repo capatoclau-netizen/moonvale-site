@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "invite-loop-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-01": {
+   "frame": {
+    "x": 195,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-02": {
+   "frame": {
+    "x": 390,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-03": {
+   "frame": {
+    "x": 585,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-04": {
+   "frame": {
+    "x": 780,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-05": {
+   "frame": {
+    "x": 975,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-06": {
+   "frame": {
+    "x": 1170,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-07": {
+   "frame": {
+    "x": 1365,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-08": {
+   "frame": {
+    "x": 1560,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-09": {
+   "frame": {
+    "x": 1755,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-10": {
+   "frame": {
+    "x": 1950,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-11": {
+   "frame": {
+    "x": 2145,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-12": {
+   "frame": {
+    "x": 2340,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-13": {
+   "frame": {
+    "x": 2535,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-14": {
+   "frame": {
+    "x": 2730,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-15": {
+   "frame": {
+    "x": 2925,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-16": {
+   "frame": {
+    "x": 3120,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-17": {
+   "frame": {
+    "x": 3315,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-18": {
+   "frame": {
+    "x": 3510,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-19": {
+   "frame": {
+    "x": 3705,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-20": {
+   "frame": {
+    "x": 3900,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-21": {
+   "frame": {
+    "x": 0,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-22": {
+   "frame": {
+    "x": 195,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-23": {
+   "frame": {
+    "x": 390,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-24": {
+   "frame": {
+    "x": 585,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-25": {
+   "frame": {
+    "x": 780,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-26": {
+   "frame": {
+    "x": 975,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-27": {
+   "frame": {
+    "x": 1170,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-28": {
+   "frame": {
+    "x": 1365,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  },
+  "invite-loop-29": {
+   "frame": {
+    "x": 1560,
+    "y": 160,
+    "w": 195,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 195,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 195,
+    "h": 160
+   }
+  }
+ },
+ "animations": {
+  "loop": [
+   "invite-loop-00",
+   "invite-loop-01",
+   "invite-loop-02",
+   "invite-loop-03",
+   "invite-loop-04",
+   "invite-loop-05",
+   "invite-loop-06",
+   "invite-loop-07",
+   "invite-loop-08",
+   "invite-loop-09",
+   "invite-loop-10",
+   "invite-loop-11",
+   "invite-loop-12",
+   "invite-loop-13",
+   "invite-loop-14",
+   "invite-loop-15",
+   "invite-loop-16",
+   "invite-loop-17",
+   "invite-loop-18",
+   "invite-loop-19",
+   "invite-loop-20",
+   "invite-loop-21",
+   "invite-loop-22",
+   "invite-loop-23",
+   "invite-loop-24",
+   "invite-loop-25",
+   "invite-loop-26",
+   "invite-loop-27",
+   "invite-loop-28",
+   "invite-loop-29"
+  ]
+ },
+ "meta": {
+  "image": "invite-loop.png",
+  "size": {
+   "w": 4095,
+   "h": 320
+  },
+  "scale": "1"
+ }
+}

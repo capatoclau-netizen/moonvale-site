@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "skins-loop-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-01": {
+   "frame": {
+    "x": 159,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-02": {
+   "frame": {
+    "x": 318,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-03": {
+   "frame": {
+    "x": 477,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-04": {
+   "frame": {
+    "x": 636,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-05": {
+   "frame": {
+    "x": 795,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-06": {
+   "frame": {
+    "x": 954,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-07": {
+   "frame": {
+    "x": 1113,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-08": {
+   "frame": {
+    "x": 1272,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-09": {
+   "frame": {
+    "x": 1431,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-10": {
+   "frame": {
+    "x": 1590,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-11": {
+   "frame": {
+    "x": 1749,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-12": {
+   "frame": {
+    "x": 1908,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-13": {
+   "frame": {
+    "x": 2067,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-14": {
+   "frame": {
+    "x": 2226,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-15": {
+   "frame": {
+    "x": 2385,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-16": {
+   "frame": {
+    "x": 2544,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-17": {
+   "frame": {
+    "x": 2703,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-18": {
+   "frame": {
+    "x": 2862,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-19": {
+   "frame": {
+    "x": 3021,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-20": {
+   "frame": {
+    "x": 3180,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-21": {
+   "frame": {
+    "x": 3339,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-22": {
+   "frame": {
+    "x": 3498,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-23": {
+   "frame": {
+    "x": 3657,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-24": {
+   "frame": {
+    "x": 3816,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-25": {
+   "frame": {
+    "x": 0,
+    "y": 160,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-26": {
+   "frame": {
+    "x": 159,
+    "y": 160,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-27": {
+   "frame": {
+    "x": 318,
+    "y": 160,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-28": {
+   "frame": {
+    "x": 477,
+    "y": 160,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  },
+  "skins-loop-29": {
+   "frame": {
+    "x": 636,
+    "y": 160,
+    "w": 159,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 159,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 159,
+    "h": 160
+   }
+  }
+ },
+ "animations": {
+  "loop": [
+   "skins-loop-00",
+   "skins-loop-01",
+   "skins-loop-02",
+   "skins-loop-03",
+   "skins-loop-04",
+   "skins-loop-05",
+   "skins-loop-06",
+   "skins-loop-07",
+   "skins-loop-08",
+   "skins-loop-09",
+   "skins-loop-10",
+   "skins-loop-11",
+   "skins-loop-12",
+   "skins-loop-13",
+   "skins-loop-14",
+   "skins-loop-15",
+   "skins-loop-16",
+   "skins-loop-17",
+   "skins-loop-18",
+   "skins-loop-19",
+   "skins-loop-20",
+   "skins-loop-21",
+   "skins-loop-22",
+   "skins-loop-23",
+   "skins-loop-24",
+   "skins-loop-25",
+   "skins-loop-26",
+   "skins-loop-27",
+   "skins-loop-28",
+   "skins-loop-29"
+  ]
+ },
+ "meta": {
+  "image": "skins-loop.png",
+  "size": {
+   "w": 3975,
+   "h": 320
+  },
+  "scale": "1"
+ }
+}
