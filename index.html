@@ -13,8 +13,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@600;800&family=Nunito:wght@600;800;900&display=swap" rel="stylesheet" />
-  <script type="module" crossorigin src="/assets/presale-OsC_aDnN.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/presale-EZJsf7PO.css">
+  <script type="module" crossorigin src="/assets/presale-CX5kVOt6.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/presale-CcrFOqlJ.css">
 </head>
 <body>
 <div class="sky" aria-hidden="true"><div class="stars s1"></div><div class="stars s2"></div><div class="moon"></div></div>
@@ -22,34 +22,35 @@
 <header class="top">
   <a class="brand" href="#"><img src="/art/brand/icon-512.png" alt="" /><span>Moonvale</span></a>
   <nav>
-    <a href="/play/" class="navplay">▶ Play demo</a><a href="#game">The game</a><a href="#kits">Kits</a><a href="#roadmap">Roadmap</a><a href="#invite" id="inviteNav">Invite</a>
+    <a href="/play/" class="navplay" data-i18n="nav.play">▶ Play demo</a><a href="#game" data-i18n="nav.game">The game</a><a href="#kits" data-i18n="nav.kits">Kits</a><a href="#roadmap" data-i18n="nav.roadmap">Roadmap</a><a href="#invite" id="inviteNav" data-i18n="nav.invite">Invite</a>
     <a href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener">Discord</a>
     <a href="https://x.com/Moonvaleonline" target="_blank" rel="noopener">X</a>
   </nav>
+  <div class="langslot" id="langSlot"></div>
   <button class="btn wallet" id="walletBtn">Connect wallet</button>
 </header>
 
 <main>
 <section class="hero">
   <img class="logo" src="/art/brand/logo.png" alt="Moonvale Online" />
-  <p class="tag">An idle chibi MMO on Solana. Build your party, clear the phases, hunt Mythic cards.</p>
+  <p class="tag" data-i18n="tagline">An idle chibi MMO on Solana. Build your party, clear the phases, hunt Mythic cards.</p>
   <div class="count" id="count" aria-live="polite">
-    <div><b id="cd-d">00</b><span>days</span></div><i>:</i>
-    <div><b id="cd-h">00</b><span>hours</span></div><i>:</i>
-    <div><b id="cd-m">00</b><span>min</span></div><i>:</i>
-    <div><b id="cd-s">00</b><span>sec</span></div>
+    <div><b id="cd-d">00</b><span data-i18n="cd.days">days</span></div><i>:</i>
+    <div><b id="cd-h">00</b><span data-i18n="cd.hours">hours</span></div><i>:</i>
+    <div><b id="cd-m">00</b><span data-i18n="cd.min">min</span></div><i>:</i>
+    <div><b id="cd-s">00</b><span data-i18n="cd.sec">sec</span></div>
   </div>
-  <p class="when">Launch · <b>Saturday, Nov 14 · 15:00 UTC</b> <span id="localTime"></span></p>
+  <p class="when"><span class="lw" data-i18n="launchWhen">Launch · <b>Saturday, Nov 14 · 15:00 UTC</b></span> <span id="localTime"></span></p>
   <div class="ctas">
-    <a class="btn gold big" href="#kits">Get a presale kit</a>
-    <a class="btn ghost big" href="/play/">▶ Play the free demo</a>
+    <a class="btn gold big" href="#kits" data-i18n="getKit">Get a presale kit</a>
+    <a class="btn ghost big" href="/play/" data-i18n="playDemo">▶ Play the free demo</a>
   </div>
-  <p class="demo-note">Closed test open to everyone · test coins, nothing real is spent</p>
+  <p class="demo-note" data-i18n="demoNote">Closed test open to everyone · test coins, nothing real is spent</p>
 </section>
 
 <section id="invite" class="invite" hidden>
   <article class="win iw">
-    <div class="wt"><span>Invite friends</span></div>
+    <div class="wt"><span data-i18n="inviteTitle">Invite friends</span></div>
     <div class="wb" id="inviteBody"></div>
   </article>
 </section>
@@ -59,127 +60,127 @@
 </section>
 
 <section id="game" class="game">
-  <h2><span>How Moonvale plays</span></h2>
-  <p class="lead">Your heroes fight on their own, even while you're away. You build the party, gear it up and push deeper. The deeper you go, the bigger the rewards.</p>
+  <h2><span data-i18n="game.title">How Moonvale plays</span></h2>
+  <p class="lead" data-i18n="game.lead">Your heroes fight on their own, even while you're away. You build the party, gear it up and push deeper. The deeper you go, the bigger the rewards.</p>
   <div class="feat">
     <article class="win f">
-      <div class="wt">Build your party</div>
+      <div class="wt" data-i18n="game.partyT">Build your party</div>
       <div class="wb">
         <div class="pic row"><img src="/art/heroes/warrior.png" alt=""><img src="/art/heroes/priest.png" alt=""><img src="/art/heroes/mage.png" alt=""><img src="/art/heroes/archer.png" alt=""><img src="/art/heroes/thief.png" alt=""></div>
-        <p>Up to <b>12 heroes</b> from 5 classes. Warriors tank, Priests heal (max 2 of each), Mages, Archers and Thieves deal the damage. Founders field <b>15</b>.</p>
+        <p data-i18n="game.partyP">Up to <b>12 heroes</b> from 5 classes. Warriors tank, Priests heal (max 2 of each), Mages, Archers and Thieves deal the damage. Founders field <b>15</b>.</p>
       </div>
     </article>
     <article class="win f">
-      <div class="wt">Clear the phases</div>
+      <div class="wt" data-i18n="game.phasesT">Clear the phases</div>
       <div class="wb">
         <div class="pic row"><img src="/art/monsters/dewbun.png" alt=""><img src="/art/monsters/mossnut.png" alt=""><img src="/art/monsters/thornpup.png" alt=""><img src="/art/monsters/glimmoth.png" alt=""></div>
-        <p>The Meadow holds <b>phases 1 to 10</b>. Each phase has a clock of <b>a few minutes</b> (4 min 18 s at phase 1, up to 10 min): miss it and you restart at phase 1, keeping all your gear and cards. The clock keeps running while your party rests, and your party keeps hunting even with the game closed.</p>
+        <p data-i18n="game.phasesP">The Meadow holds <b>phases 1 to 10</b>. Each phase has a clock of <b>a few minutes</b> (4 min 18 s at phase 1, up to 10 min): miss it and you restart at phase 1, keeping all your gear and cards. The clock keeps running while your party rests, and your party keeps hunting even with the game closed.</p>
       </div>
     </article>
     <article class="win f">
-      <div class="wt">Bosses &amp; Mythic cards</div>
+      <div class="wt" data-i18n="game.bossesT">Bosses &amp; Mythic cards</div>
       <div class="wb">
         <div class="pic"><img class="big" src="/art/bosses/nyx.png" alt=""></div>
-        <p>Every <b>5th phase</b> ends with one of <b>10 bosses</b>. Each can drop its own <b class="m">Mythic card</b> (0.2% per kill) to socket into your gear.</p>
+        <p data-i18n="game.bossesP">Every <b>5th phase</b> ends with one of <b>10 bosses</b>. Each can drop its own <b class="m">Mythic card</b> (0.2% per kill) to socket into your gear.</p>
       </div>
     </article>
     <article class="win f">
-      <div class="wt">Gear in 5 rarities</div>
+      <div class="wt" data-i18n="game.gearT">Gear in 5 rarities</div>
       <div class="wb">
         <div class="pic row"><img src="/art/items/copper-ring.png" alt=""><img src="/art/items/blue-chainmail.png" alt=""><img src="/art/items/crescent-shield.png" alt=""><img src="/art/items/crescent-crown.png" alt=""><img src="/art/items/eclipse-ring.png" alt=""></div>
-        <p><span class="rc">Common</span>, <span class="rr">Rare</span>, <span class="re">Epic</span>, <span class="rl">Legendary</span> and <span class="rm">Mythic</span>. Ten slots per hero. Higher rarity, better stats and more card sockets.</p>
+        <p data-i18n="game.gearP"><span class="rc">Common</span>, <span class="rr">Rare</span>, <span class="re">Epic</span>, <span class="rl">Legendary</span> and <span class="rm">Mythic</span>. Ten slots per hero. Higher rarity, better stats and more card sockets.</p>
       </div>
     </article>
     <article class="win f">
-      <div class="wt">Summon, fuse, rest</div>
+      <div class="wt" data-i18n="game.summonT">Summon, fuse, rest</div>
       <div class="wb">
         <div class="pic row"><img src="/art/heroes/mage.png" alt=""><img src="/art/heroes/archer.png" alt=""></div>
-        <p>Summon new heroes with coins, <b>fuse</b> duplicates into stronger ones, and upgrade your <b>House</b> so your party recovers stamina faster.</p>
+        <p data-i18n="game.summonP">Summon new heroes with coins, <b>fuse</b> duplicates into stronger ones, and upgrade your <b>House</b> so your party recovers stamina faster.</p>
       </div>
     </article>
     <article class="win f">
-      <div class="wt">Farm &amp; withdraw</div>
+      <div class="wt" data-i18n="game.farmT">Farm &amp; withdraw</div>
       <div class="wb">
         <div class="pic"><img class="big" src="/art/brand/icon-512.png" alt=""></div>
-        <p>Every kill farms coins. <b>Farmed coins can be withdrawn</b> to your wallet (3% fee, once every 24 h). Payouts are capped by what the pool can afford, so it never runs dry.</p>
+        <p data-i18n="game.farmP">Every kill farms coins you can <b>withdraw</b>. Your <b>patience</b> sets how much of a withdraw is paid: 20% → 33% → 47% → 60% → 73% → 87% → <b>100%</b>, one step every 24 h from game open (20 h for Founders). Withdrawing resets it (from 100% it only drops to 60%) and the unpaid part stays in the reward pool. 3% fee on what is paid, one withdraw every 24 h (12 h for Founders), min 1,000 coins.</p>
       </div>
     </article>
   </div>
 </section>
 
 <section id="kits" class="kits">
-  <h2><span>Presale kits</span></h2>
-  <p class="lead">Kits come with <b class="cy">Moonlit class skins</b>: one skin dresses the whole class and gives <b class="cy">+5% farm to every hero of that class</b>, even the ones you summon later. Keep the look or just the bonus. Everything lands in your account the moment the game opens.</p>
+  <h2><span data-i18n="kits.title">Presale kits</span></h2>
+  <p class="lead" data-i18n="kits.lead">Kits come with <b class="cy">Moonlit class skins</b>: one skin dresses the whole class and gives <b class="cy">+5% farm to every hero of that class</b>, even the ones you summon later. Keep the look or just the bonus. Everything lands in your account the moment the game opens.</p>
   <div class="moonlit">
-    <figure><img src="/art/heroes/archer-moonlit.png" alt="Moonlit Archer"><figcaption>Moonlit Archer</figcaption></figure>
-    <figure class="mid"><img src="/art/heroes/mage-moonlit.png" alt="Moonlit Mage"><figcaption>Moonlit Mage</figcaption></figure>
-    <figure><img src="/art/heroes/thief-moonlit.png" alt="Moonlit Thief"><figcaption>Moonlit Thief</figcaption></figure>
-    <p class="tag">Only in presale kits</p>
+    <figure><img src="/art/heroes/archer-moonlit.png" alt="Moonlit Archer" data-i18n-alt="kits.moonlit.archer"><figcaption data-i18n="kits.moonlit.archer">Moonlit Archer</figcaption></figure>
+    <figure class="mid"><img src="/art/heroes/mage-moonlit.png" alt="Moonlit Mage" data-i18n-alt="kits.moonlit.mage"><figcaption data-i18n="kits.moonlit.mage">Moonlit Mage</figcaption></figure>
+    <figure><img src="/art/heroes/thief-moonlit.png" alt="Moonlit Thief" data-i18n-alt="kits.moonlit.thief"><figcaption data-i18n="kits.moonlit.thief">Moonlit Thief</figcaption></figure>
+    <p class="tag" data-i18n="kits.onlyInKits">Only in presale kits</p>
   </div>
   <div class="grid" id="kitGrid"></div>
-  <p class="buyback">🌙 <b>100% of the presale buys the coin at launch.</b> Every SOL from presale kits is used to buy the coin on pump.fun the moment it goes live, so the game starts with real demand behind it.</p>
-  <p class="fine">Kit heroes, gear and coins are locked to your account: you play with them, they can't be withdrawn. Farmed coins can be withdrawn after launch.</p>
+  <p class="buyback" data-i18n="kits.buyback">🌙 <b>100% of the presale buys the coin at launch.</b> Every SOL from presale kits is used to buy the coin on pump.fun the moment it goes live, so the game starts with real demand behind it.</p>
+  <p class="fine" data-i18n="kits.fine">Kit heroes, gear and coins are locked to your account: you play with them, they can't be withdrawn. Farmed coins can be withdrawn after launch.</p>
 </section>
 
 <section id="how" class="how">
-  <h2><span>How the presale works</span></h2>
+  <h2><span data-i18n="how.title">How the presale works</span></h2>
   <ol>
-    <li><i>1</i><div><b>Connect your Solana wallet</b>Phantom, Solflare, Backpack or MetaMask. You sign a message to prove the wallet is yours. No transaction, no fee.</div></li>
-    <li><i>2</i><div><b>Pick a kit and pay in SOL</b>Your wallet shows the exact amount before you approve. The purchase is confirmed on-chain.</div></li>
-    <li><i>3</i><div><b>Play on launch day</b>Connect the same wallet on Saturday and your kit is already there.</div></li>
+    <li><i>1</i><div><b data-i18n="how.s1T">Connect your Solana wallet</b><span data-i18n="how.s1P">Phantom, Solflare, Backpack or MetaMask. You sign a message to prove the wallet is yours. No transaction, no fee.</span></div></li>
+    <li><i>2</i><div><b data-i18n="how.s2T">Pick a kit and pay in SOL</b><span data-i18n="how.s2P">Your wallet shows the exact amount before you approve. The purchase is confirmed on-chain.</span></div></li>
+    <li><i>3</i><div><b data-i18n="how.s3T">Play on launch day</b><span data-i18n="how.s3P">Connect the same wallet on Saturday and your kit is already there.</span></div></li>
   </ol>
   <div class="split">
     <div class="win">
-      <div class="wt">Where the SOL goes</div>
+      <div class="wt" data-i18n="how.solT">Where the SOL goes</div>
       <div class="wb">
-        <div class="bar"><span style="width:100%">100% of presale SOL buys the coin</span></div>
-        <p><b>All</b> presale SOL goes to the <b>Moonvale Vault</b>, which <b>buys the coin at launch</b>; those coins become the reward pool that backs player payouts. The Vault wallet is public, so anyone can check it.</p>
-        <p class="addr">Moonvale Vault: <code id="reserveAddr">published before launch</code></p>
+        <div class="bar"><span style="width:100%" data-i18n="how.bar">100% of presale SOL buys the coin</span></div>
+        <p data-i18n="how.solP"><b>All</b> presale SOL goes to the <b>Moonvale Vault</b>, which <b>buys the coin at launch</b>; those coins become the reward pool that backs player payouts. The Vault wallet is public, so anyone can check it.</p>
+        <p class="addr"><span data-i18n="how.vault">Moonvale Vault:</span> <code id="reserveAddr" data-i18n="how.vaultSoon">published before launch</code></p>
       </div>
     </div>
   </div>
 </section>
 
 <section id="launch" class="launch">
-  <h2><span>Launch timeline</span></h2>
+  <h2><span data-i18n="launch.title">Launch timeline</span></h2>
   <div class="line">
-    <div class="st done"><b>Nov 10</b>Discord and X open</div>
-    <div class="st now"><b>Nov 11</b>Presale opens</div>
-    <div class="st"><b>Nov 13</b>Closed test ends</div>
-    <div class="st big"><b>Nov 14 · 15:00 UTC</b>Coin launch on pump.fun</div>
-    <div class="st big"><b>Nov 14 · 15:30 UTC</b>Game opens</div>
+    <div class="st done"><b data-i18n="launch.d10">Nov 10</b><span data-i18n="launch.nov10">Discord and X open</span></div>
+    <div class="st now"><b data-i18n="launch.d11">Nov 11</b><span data-i18n="launch.nov11">Presale opens</span></div>
+    <div class="st"><b data-i18n="launch.d13">Nov 13</b><span data-i18n="launch.nov13">Closed test ends</span></div>
+    <div class="st big"><b data-i18n="launch.coinAt">Nov 14 · 15:00 UTC</b><span data-i18n="launch.coin">Coin launch on pump.fun</span></div>
+    <div class="st big"><b data-i18n="launch.gameAt">Nov 14 · 15:30 UTC</b><span data-i18n="launch.game">Game opens</span></div>
   </div>
-  <p class="fine">The coin contract address is posted only on our official X and Discord at launch. Anyone sending you an address before that is a scammer.</p>
+  <p class="fine" data-i18n="launch.scam">The coin contract address is posted only on our official X and Discord at launch. Anyone sending you an address before that is a scammer.</p>
 </section>
 
 <section id="roadmap" class="roadmap">
-  <h2><span>Roadmap</span></h2>
+  <h2><span data-i18n="roadmap.title">Roadmap</span></h2>
   <div class="rmap">
-    <article class="win ph now"><div class="wt">Phase 0 · Now</div><div class="wb"><h3>Presale</h3><ul>
-      <li>Website, Discord and X live</li><li>Presale kits and Founder Pass</li><li>Public Moonvale Vault</li><li>Closed test of the game</li></ul></div></article>
-    <article class="win ph big"><div class="wt">Phase 1 · Nov 14</div><div class="wb"><h3>Launch</h3><ul>
-      <li>Coin on pump.fun, game opens 30 min later</li><li>The Meadow: phases 1 to 10</li><li>Raid: 10 bosses and their Mythic cards</li><li>Summon, fusion, gear, House</li><li>Withdraw farmed coins</li><li>Discord referral boxes</li></ul></div></article>
-    <article class="win ph"><div class="wt">Phase 2 · Next</div><div class="wb"><h3>New lands</h3><ul>
-      <li>Map 2: phases 11 to 20</li><li>New monsters, bosses and cards</li><li>Player marketplace for heroes, gear and cards</li></ul></div></article>
-    <article class="win ph"><div class="wt">Phase 3 · Later</div><div class="wb"><h3>Together</h3><ul>
-      <li>Guilds</li><li>Arena: party vs party</li><li>Seasons with rankings and rewards</li></ul></div></article>
+    <article class="win ph now"><div class="wt" data-i18n="roadmap.p0">Phase 0 · Now</div><div class="wb"><h3 data-i18n="roadmap.p0T">Presale</h3><ul>
+      <li data-i18n="roadmap.p0a">Website, Discord and X live</li><li data-i18n="roadmap.p0b">Presale kits and Founder Pass</li><li data-i18n="roadmap.p0c">Public Moonvale Vault</li><li data-i18n="roadmap.p0d">Closed test of the game</li></ul></div></article>
+    <article class="win ph big"><div class="wt" data-i18n="roadmap.p1">Phase 1 · Nov 14</div><div class="wb"><h3 data-i18n="roadmap.p1T">Launch</h3><ul>
+      <li data-i18n="roadmap.p1a">Coin on pump.fun, game opens 30 min later</li><li data-i18n="roadmap.p1b">The Meadow: phases 1 to 10</li><li data-i18n="roadmap.p1c">Raid: 10 bosses and their Mythic cards</li><li data-i18n="roadmap.p1d">Summon, fusion, gear, House</li><li data-i18n="roadmap.p1e">Withdraw farmed coins</li><li data-i18n="roadmap.p1f">Discord referral boxes</li></ul></div></article>
+    <article class="win ph"><div class="wt" data-i18n="roadmap.p2">Phase 2 · Next</div><div class="wb"><h3 data-i18n="roadmap.p2T">New lands</h3><ul>
+      <li data-i18n="roadmap.p2a">Map 2: phases 11 to 20</li><li data-i18n="roadmap.p2b">New monsters, bosses and cards</li><li data-i18n="roadmap.p2c">Player marketplace for heroes, gear and cards</li></ul></div></article>
+    <article class="win ph"><div class="wt" data-i18n="roadmap.p3">Phase 3 · Later</div><div class="wb"><h3 data-i18n="roadmap.p3T">Together</h3><ul>
+      <li data-i18n="roadmap.p3a">Guilds</li><li data-i18n="roadmap.p3b">Arena: party vs party</li><li data-i18n="roadmap.p3c">Seasons with rankings and rewards</li></ul></div></article>
   </div>
 </section>
 
 <section class="join">
-  <h2><span>Join the hunters</span></h2>
+  <h2><span data-i18n="join.title">Join the hunters</span></h2>
   <div class="links">
-    <a class="btn gold" href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener">Join Discord</a>
-    <a class="btn ghost" href="https://x.com/Moonvaleonline" target="_blank" rel="noopener">Follow on X</a>
+    <a class="btn gold" href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener" data-i18n="join.discord">Join Discord</a>
+    <a class="btn ghost" href="https://x.com/Moonvaleonline" target="_blank" rel="noopener" data-i18n="join.x">Follow on X</a>
   </div>
 </section>
 </main>
 
-<footer><div class="soc"><a href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener">Discord</a> · <a href="https://x.com/Moonvaleonline" target="_blank" rel="noopener">X / Twitter</a> · <a href="mailto:moonvaleonline@gmail.com">moonvaleonline@gmail.com</a></div>© 2026 Moonvale Online · Original art and world. Play responsibly: crypto prices move, never spend what you can't afford to lose.</footer>
+<footer><div class="soc"><a href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener">Discord</a> · <a href="https://x.com/Moonvaleonline" target="_blank" rel="noopener">X / Twitter</a> · <a href="mailto:moonvaleonline@gmail.com">moonvaleonline@gmail.com</a></div><span data-i18n="footer">© 2026 Moonvale Online · Original art and world. Play responsibly: crypto prices move, never spend what you can't afford to lose.</span></footer>
 
 <div class="modal" id="modal" hidden>
   <div class="win mw">
-    <div class="wt"><span id="mTitle">Wallet</span><button class="x" id="mClose" aria-label="Close">×</button></div>
+    <div class="wt"><span id="mTitle">Wallet</span><button class="x" id="mClose" aria-label="Close" data-i18n-aria="common.close">×</button></div>
     <div class="wb" id="mBody"></div>
   </div>
 </div>
