@@ -4,665 +4,179 @@
    "frame": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-01": {
    "frame": {
-    "x": 60,
+    "x": 66,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-02": {
    "frame": {
-    "x": 120,
+    "x": 132,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-03": {
    "frame": {
-    "x": 180,
+    "x": 198,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-04": {
    "frame": {
-    "x": 240,
+    "x": 264,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-05": {
    "frame": {
-    "x": 300,
+    "x": 330,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-06": {
    "frame": {
-    "x": 360,
+    "x": 396,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-07": {
    "frame": {
-    "x": 420,
+    "x": 462,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-08": {
    "frame": {
-    "x": 480,
+    "x": 528,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   },
   "archer-walk-09": {
    "frame": {
-    "x": 540,
+    "x": 594,
     "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "sourceSize": {
-    "w": 60,
+    "w": 66,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-10": {
-   "frame": {
-    "x": 600,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-11": {
-   "frame": {
-    "x": 660,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-12": {
-   "frame": {
-    "x": 720,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-13": {
-   "frame": {
-    "x": 780,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-14": {
-   "frame": {
-    "x": 840,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-15": {
-   "frame": {
-    "x": 900,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-16": {
-   "frame": {
-    "x": 960,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-17": {
-   "frame": {
-    "x": 1020,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-18": {
-   "frame": {
-    "x": 1080,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-19": {
-   "frame": {
-    "x": 1140,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-20": {
-   "frame": {
-    "x": 1200,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-21": {
-   "frame": {
-    "x": 1260,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-22": {
-   "frame": {
-    "x": 1320,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-23": {
-   "frame": {
-    "x": 1380,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-24": {
-   "frame": {
-    "x": 1440,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-25": {
-   "frame": {
-    "x": 1500,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-26": {
-   "frame": {
-    "x": 1560,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-27": {
-   "frame": {
-    "x": 1620,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-28": {
-   "frame": {
-    "x": 1680,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-29": {
-   "frame": {
-    "x": 1740,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-30": {
-   "frame": {
-    "x": 1800,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-31": {
-   "frame": {
-    "x": 1860,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-32": {
-   "frame": {
-    "x": 1920,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-33": {
-   "frame": {
-    "x": 1980,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-34": {
-   "frame": {
-    "x": 2040,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-35": {
-   "frame": {
-    "x": 2100,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   }
-  },
-  "archer-walk-36": {
-   "frame": {
-    "x": 2160,
-    "y": 0,
-    "w": 60,
-    "h": 96
-   },
-   "sourceSize": {
-    "w": 60,
-    "h": 96
-   },
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 60,
+    "w": 66,
     "h": 96
    }
   }
@@ -678,40 +192,13 @@
    "archer-walk-06",
    "archer-walk-07",
    "archer-walk-08",
-   "archer-walk-09",
-   "archer-walk-10",
-   "archer-walk-11",
-   "archer-walk-12",
-   "archer-walk-13",
-   "archer-walk-14",
-   "archer-walk-15",
-   "archer-walk-16",
-   "archer-walk-17",
-   "archer-walk-18",
-   "archer-walk-19",
-   "archer-walk-20",
-   "archer-walk-21",
-   "archer-walk-22",
-   "archer-walk-23",
-   "archer-walk-24",
-   "archer-walk-25",
-   "archer-walk-26",
-   "archer-walk-27",
-   "archer-walk-28",
-   "archer-walk-29",
-   "archer-walk-30",
-   "archer-walk-31",
-   "archer-walk-32",
-   "archer-walk-33",
-   "archer-walk-34",
-   "archer-walk-35",
-   "archer-walk-36"
+   "archer-walk-09"
   ]
  },
  "meta": {
   "image": "archer-walk.png",
   "size": {
-   "w": 2220,
+   "w": 660,
    "h": 96
   },
   "scale": "1"
