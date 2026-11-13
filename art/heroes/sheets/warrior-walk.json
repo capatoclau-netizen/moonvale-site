@@ -4,197 +4,665 @@
    "frame": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-01": {
    "frame": {
-    "x": 86,
+    "x": 71,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-02": {
    "frame": {
-    "x": 172,
+    "x": 142,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-03": {
    "frame": {
-    "x": 258,
+    "x": 213,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-04": {
    "frame": {
-    "x": 344,
+    "x": 284,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-05": {
    "frame": {
-    "x": 430,
+    "x": 355,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-06": {
    "frame": {
-    "x": 516,
+    "x": 426,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-07": {
    "frame": {
-    "x": 602,
+    "x": 497,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-08": {
    "frame": {
-    "x": 688,
+    "x": 568,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-09": {
    "frame": {
-    "x": 774,
+    "x": 639,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    }
   },
   "warrior-walk-10": {
    "frame": {
-    "x": 860,
+    "x": 710,
     "y": 0,
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "sourceSize": {
-    "w": 86,
+    "w": 71,
     "h": 96
    },
    "spriteSourceSize": {
     "x": 0,
     "y": 0,
-    "w": 86,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-11": {
+   "frame": {
+    "x": 781,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-12": {
+   "frame": {
+    "x": 852,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-13": {
+   "frame": {
+    "x": 923,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-14": {
+   "frame": {
+    "x": 994,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-15": {
+   "frame": {
+    "x": 1065,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-16": {
+   "frame": {
+    "x": 1136,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-17": {
+   "frame": {
+    "x": 1207,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-18": {
+   "frame": {
+    "x": 1278,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-19": {
+   "frame": {
+    "x": 1349,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-20": {
+   "frame": {
+    "x": 1420,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-21": {
+   "frame": {
+    "x": 1491,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-22": {
+   "frame": {
+    "x": 1562,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-23": {
+   "frame": {
+    "x": 1633,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-24": {
+   "frame": {
+    "x": 1704,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-25": {
+   "frame": {
+    "x": 1775,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-26": {
+   "frame": {
+    "x": 1846,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-27": {
+   "frame": {
+    "x": 1917,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-28": {
+   "frame": {
+    "x": 1988,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-29": {
+   "frame": {
+    "x": 2059,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-30": {
+   "frame": {
+    "x": 2130,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-31": {
+   "frame": {
+    "x": 2201,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-32": {
+   "frame": {
+    "x": 2272,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-33": {
+   "frame": {
+    "x": 2343,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-34": {
+   "frame": {
+    "x": 2414,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-35": {
+   "frame": {
+    "x": 2485,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   }
+  },
+  "warrior-walk-36": {
+   "frame": {
+    "x": 2556,
+    "y": 0,
+    "w": 71,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 71,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 71,
     "h": 96
    }
   }
@@ -211,13 +679,39 @@
    "warrior-walk-07",
    "warrior-walk-08",
    "warrior-walk-09",
-   "warrior-walk-10"
+   "warrior-walk-10",
+   "warrior-walk-11",
+   "warrior-walk-12",
+   "warrior-walk-13",
+   "warrior-walk-14",
+   "warrior-walk-15",
+   "warrior-walk-16",
+   "warrior-walk-17",
+   "warrior-walk-18",
+   "warrior-walk-19",
+   "warrior-walk-20",
+   "warrior-walk-21",
+   "warrior-walk-22",
+   "warrior-walk-23",
+   "warrior-walk-24",
+   "warrior-walk-25",
+   "warrior-walk-26",
+   "warrior-walk-27",
+   "warrior-walk-28",
+   "warrior-walk-29",
+   "warrior-walk-30",
+   "warrior-walk-31",
+   "warrior-walk-32",
+   "warrior-walk-33",
+   "warrior-walk-34",
+   "warrior-walk-35",
+   "warrior-walk-36"
   ]
  },
  "meta": {
   "image": "warrior-walk.png",
   "size": {
-   "w": 946,
+   "w": 2627,
    "h": 96
   },
   "scale": "1"
