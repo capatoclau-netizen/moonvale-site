@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Moonvale — Maintenance</title>
+<link rel="icon" href="/art/brand/icon-512.png">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;800&family=Nunito:wght@600;800&display=swap" rel="stylesheet">
+<style>
+  :root { --navy: #04093a; --gold: #E2B04A; --ivory: #F4EFE3; --lilac: #B9A3E3; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; background: #02041a; color: var(--ivory); font-family: Nunito, sans-serif; overflow: hidden; }
+  .scene { position: fixed; inset: 0; overflow: hidden; }
+  .bg { position: absolute; inset: -2%; background: url('/art/maintenance/cave.jpg') 58% 55% / cover no-repeat;
+        transform-origin: 59% 54%; animation: fly 9s cubic-bezier(.45,.05,.25,1) forwards, breathe 6s 9s ease-in-out infinite alternate; }
+  @keyframes fly { 0% { transform: scale(1); filter: brightness(1); } 100% { transform: scale(1.9); filter: brightness(.55); } }
+  @keyframes breathe { from { transform: scale(1.9); } to { transform: scale(1.96); } }
+  .dark { position: absolute; inset: 0; background: radial-gradient(ellipse at 50% 55%, rgba(0,0,0,0) 0%, rgba(2,4,26,.55) 55%, rgba(2,4,26,.95) 100%);
+          opacity: 0; animation: fade 4s 5s forwards; }
+  .torch { position: absolute; inset: 0; background: radial-gradient(circle at 59% 56%, rgba(255,170,60,.18), rgba(0,0,0,0) 35%);
+           opacity: 0; animation: fade 3s 7s forwards, flicker 2.2s 10s infinite; mix-blend-mode: screen; }
+  @keyframes fade { to { opacity: 1; } }
+  @keyframes flicker { 0%,100% { opacity: 1; } 40% { opacity: .75; } 60% { opacity: .95; } 80% { opacity: .7; } }
+  .card { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -40%); width: min(560px, calc(100% - 32px)); text-align: center;
+          opacity: 0; animation: rise 1.4s 7.5s ease-out forwards; }
+  @keyframes rise { to { opacity: 1; transform: translate(-50%, -50%); } }
+  .logo { width: min(320px, 70vw); filter: drop-shadow(0 6px 24px rgba(0,0,0,.6)); }
+  h1 { font-family: Cinzel, serif; font-weight: 800; color: var(--gold); font-size: clamp(26px, 6vw, 44px); letter-spacing: .06em; margin: 10px 0 6px;
+       text-shadow: 0 2px 12px rgba(0,0,0,.8); }
+  .sub { font-size: clamp(15px, 3.6vw, 19px); line-height: 1.5; text-shadow: 0 2px 8px rgba(0,0,0,.9); }
+  .panel { margin-top: 16px; background: rgba(4,9,58,.72); border: 1px solid rgba(226,176,74,.55); border-radius: 14px; padding: 14px 16px; backdrop-filter: blur(4px); }
+  .panel p { font-size: 14px; color: #d8d2c4; margin: 4px 0; }
+  .status { margin-top: 10px; font-family: Cinzel, serif; color: var(--lilac); font-size: 14px; letter-spacing: .08em; }
+  .dots::after { content: ''; animation: dots 1.6s steps(4) infinite; }
+  @keyframes dots { 0% { content: ''; } 25% { content: '.'; } 50% { content: '..'; } 75% { content: '...'; } }
+  .links { margin-top: 12px; font-size: 14px; }
+  .links a { color: var(--gold); text-decoration: none; margin: 0 8px; }
+  .spark { position: absolute; width: 4px; height: 4px; border-radius: 50%; background: #9fe7ff; box-shadow: 0 0 8px #7ef0ff; opacity: 0; animation: spark 5s linear infinite; }
+  @keyframes spark { 0% { opacity: 0; transform: translateY(0); } 20% { opacity: .9; } 100% { opacity: 0; transform: translateY(-120px); } }
+</style>
+</head>
+<body>
+<div class="scene">
+  <div class="bg"></div><div class="dark"></div><div class="torch"></div>
+  <div id="sparks"></div>
+  <div class="card">
+    <img class="logo" src="/art/brand/logo-clear.png" alt="Moonvale Online">
+    <h1 id="t">UNDER MAINTENANCE</h1>
+    <div class="sub" id="s">The heroes went into the cave to bring back a big update.<br>The game will be back in a few minutes.</div>
+    <div class="panel">
+      <p id="p1">🎒 Equipment window · 🟢 Uncommon gear · ⚒️ Gear fusion · 🤖 Auto equip fixed</p>
+      <p id="p2">🌙 Moonlit Priest &amp; Moonlit Warrior packs</p>
+      <div class="status" id="st"><span id="stt">WORKING ON IT</span><span class="dots"></span></div>
+    </div>
+    <div class="links"><a href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener">Discord</a> · <a href="https://x.com/Moonvaleonline" target="_blank" rel="noopener">X</a></div>
+  </div>
+</div>
+<script>
+  // OWNER 2026-11-15 ("pagina de manutencao ... uma intro indo pra um outro lugar tipo uma caverna escura ... e falar que esta em manutencao")
+  const L = {
+    pt: ['EM MANUTENÇÃO', 'Os heróis entraram na caverna para buscar uma grande atualização.<br>O jogo volta em alguns minutos.', '🎒 Aba Equipamentos · 🟢 Equipamentos Incomuns · ⚒️ Fusão de equipamento · 🤖 Auto equip corrigido', '🌙 Pacotes Moonlit Priest e Moonlit Warrior', 'TRABALHANDO NISSO'],
+    es: ['EN MANTENIMIENTO', 'Los héroes entraron a la cueva a buscar una gran actualización.<br>El juego vuelve en unos minutos.', '🎒 Ventana de Equipo · 🟢 Equipo Poco Común · ⚒️ Fusión de equipo · 🤖 Auto equip corregido', '🌙 Packs Moonlit Priest y Moonlit Warrior', 'TRABAJANDO EN ELLO'],
+    th: ['ปิดปรับปรุง', 'เหล่าฮีโร่เข้าไปในถ้ำเพื่อนำอัปเดตใหญ่กลับมา<br>เกมจะกลับมาในไม่กี่นาที', '🎒 หน้าต่างอุปกรณ์ · 🟢 อุปกรณ์ Uncommon · ⚒️ ฟิวชันอุปกรณ์ · 🤖 แก้ Auto equip', '🌙 แพ็ก Moonlit Priest และ Moonlit Warrior', 'กำลังดำเนินการ'],
+    ja: ['メンテナンス中', 'ヒーローたちは大型アップデートを取りに洞窟へ向かいました。<br>数分後に再開します。', '🎒 装備ウィンドウ · 🟢 アンコモン装備 · ⚒️ 装備フュージョン · 🤖 オート装備修正', '🌙 ムーンリット・プリースト＆ウォリアーのパック', '作業中'],
+    fil: ['NASA MAINTENANCE', 'Pumasok ang mga hero sa kuweba para kunin ang malaking update.<br>Babalik ang laro sa loob ng ilang minuto.', '🎒 Equipment window · 🟢 Uncommon gear · ⚒️ Gear fusion · 🤖 Ayos na ang Auto equip', '🌙 Moonlit Priest at Moonlit Warrior packs', 'INAAYOS NA'],
+    ar: ['تحت الصيانة', 'دخل الأبطال الكهف لإحضار تحديث كبير.<br>ستعود اللعبة خلال دقائق.', '🎒 نافذة المعدات · 🟢 معدات غير شائعة · ⚒️ دمج المعدات · 🤖 إصلاح التجهيز التلقائي', '🌙 حزم Moonlit Priest و Moonlit Warrior', 'نعمل على ذلك'],
+    zh: ['维护中', '英雄们进入洞窟去带回一次大更新。<br>游戏将在几分钟后恢复。', '🎒 装备窗口 · 🟢 优秀装备 · ⚒️ 装备融合 · 🤖 自动装备修复', '🌙 月光牧师与月光战士礼包', '处理中'],
+  };
+  let lang = '';
+  try { lang = (localStorage.getItem('mv.lang') || '').slice(0, 3); } catch {}
+  if (!lang) lang = (navigator.language || 'en').toLowerCase();
+  const key = lang.startsWith('pt') ? 'pt' : lang.startsWith('es') ? 'es' : lang.startsWith('th') ? 'th' : lang.startsWith('ja') ? 'ja'
+    : (lang.startsWith('fil') || lang.startsWith('tl')) ? 'fil' : lang.startsWith('ar') ? 'ar' : lang.startsWith('zh') ? 'zh' : '';
+  if (key) {
+    const [t, s, p1, p2, st] = L[key];
+    document.getElementById('t').textContent = t; document.getElementById('s').innerHTML = s;
+    document.getElementById('p1').textContent = p1; document.getElementById('p2').textContent = p2; document.getElementById('stt').textContent = st;
+    if (key === 'ar') document.documentElement.dir = 'rtl';
+  }
+  const sp = document.getElementById('sparks');
+  for (let i = 0; i < 26; i++) {
+    const d = document.createElement('i'); d.className = 'spark';
+    d.style.left = (30 + Math.random() * 40) + '%'; d.style.top = (45 + Math.random() * 35) + '%';
+    d.style.animationDelay = (8 + Math.random() * 6) + 's'; sp.appendChild(d);
+  }
+  // back online: the game page replaces this one; reload when the new build is published
+  setInterval(async () => {
+    try {
+      const r = await fetch('/play/version.json?t=' + Date.now(), { cache: 'no-store' });
+      if (r.ok && !(await r.text()).includes('maintenance')) location.reload();
+    } catch {}
+  }, 20000);
+</script>
+</body>
+</html>
