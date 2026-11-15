@@ -13,8 +13,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700;900&family=Cinzel:wght@600;800&family=Nunito:wght@600;800;900&display=swap" rel="stylesheet" />
-  <script type="module" crossorigin src="/assets/presale-DOFkJ6ft.js"></script>
-  <link rel="stylesheet" crossorigin href="/assets/presale-DWwRk9Vq.css">
+  <script type="module" crossorigin src="/assets/presale-Ce17fctP.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/presale-CqVWPmcY.css">
 </head>
 <body>
 <div class="sky" aria-hidden="true"><div class="stars s1"></div><div class="stars s2"></div><div class="moon"></div></div>
@@ -34,13 +34,30 @@
 <section class="hero">
   <img class="logo" src="/art/brand/logo.png" alt="Moonvale Online" />
   <p class="tag" data-i18n="tagline">An idle chibi MMO on Solana. Build your party, clear the phases, hunt Mythic cards.</p>
-  <div class="count" id="count" aria-live="polite">
-    <div><b id="cd-d">00</b><span data-i18n="cd.days">days</span></div><i>:</i>
-    <div><b id="cd-h">00</b><span data-i18n="cd.hours">hours</span></div><i>:</i>
-    <div><b id="cd-m">00</b><span data-i18n="cd.min">min</span></div><i>:</i>
-    <div><b id="cd-s">00</b><span data-i18n="cd.sec">sec</span></div>
+  <div class="car" id="car" aria-roledescription="carousel">
+    <div class="car-view">
+      <div class="car-track" id="carTrack">
+        <article class="slide s-skins" aria-roledescription="slide">
+          <div class="s-art"><img src="/art/heroes/priest-moonlit.png" alt=""><img src="/art/heroes/warrior-moonlit.png" alt=""></div>
+          <div class="s-txt"><span class="s-k" data-i18n="car.skinsK">New skins</span><h3 data-i18n="car.skinsT">Moonlit Priest &amp; Moonlit Warrior</h3><p data-i18n="car.skinsP">The moon now dresses all 5 classes.</p><a class="btn gold" href="#kits" data-i18n="car.skinsC">See the skins</a></div>
+        </article>
+        <article class="slide s-live" aria-roledescription="slide">
+          <div class="s-art row"><img src="/art/heroes/warrior.png" alt=""><img src="/art/heroes/priest.png" alt=""><img src="/art/heroes/mage.png" alt=""><img src="/art/heroes/archer.png" alt=""><img src="/art/heroes/thief.png" alt=""></div>
+          <div class="s-txt"><span class="s-k" data-i18n="car.liveK">Live now</span><h3 data-i18n="car.liveT">The hunt is on</h3><p data-i18n="car.liveP">Build your party, clear the floors and farm Moonvale Coin, even while you're away.</p><a class="btn gold" href="/play/" data-i18n="car.liveC">▶ Play now</a></div>
+        </article>
+        <article class="slide s-founder" aria-roledescription="slide">
+          <div class="s-art"><img class="crest" src="/art/brand/icon-512.png" alt=""></div>
+          <div class="s-txt"><span class="s-k" data-i18n="car.founderK">Founder Pass</span><h3 data-i18n="car.founderT">0.7 SOL, limited units</h3><p><span data-i18n="car.founderP">15-hero party, summons 10% cheaper, better odds, withdraw every 12 h.</span> <b id="carFounder"></b></p><a class="btn gold" href="#kits" data-i18n="car.founderC">Get it</a></div>
+        </article>
+        <article class="slide s-tag" aria-roledescription="slide">
+          <div class="s-art"><span class="moontag">🌙 MOON</span></div>
+          <div class="s-txt"><span class="s-k" data-i18n="car.tagK">Discord server tag</span><h3 data-i18n="car.tagT">Wear MOON, pay 2% less</h3><p data-i18n="car.tagP">Show the MOON tag on your Discord profile, connect Discord in the game and every summon costs 2% less.</p><a class="btn gold" href="https://discord.gg/GwdkYcWHaV" target="_blank" rel="noopener" data-i18n="car.tagC">Join Discord</a></div>
+        </article>
+      </div>
+    </div>
+    <button class="car-nav prev" id="carPrev" aria-label="Previous">‹</button><button class="car-nav next" id="carNext" aria-label="Next">›</button>
+    <div class="car-dots" id="carDots"></div>
   </div>
-  <p class="when"><span class="lw" data-i18n="launchWhen">Launch · <b>Saturday, Nov 14 · 15:00 UTC</b></span> <span id="localTime"></span></p>
   <div class="ctas">
     <a class="btn ghost big" href="/play/" data-i18n="playDemo">▶ Play the free demo</a>
   </div>
@@ -127,9 +144,11 @@
   <h2><span data-i18n="kits.title">Presale kits</span></h2>
   <p class="lead" data-i18n="kits.lead">Kits come with <b class="cy">Moonlit class skins</b>: one skin dresses the whole class and gives <b class="cy">+5% farm to every hero of that class</b>, even the ones you summon later. Keep the look or just the bonus. Everything lands in your account the moment the game opens.</p>
   <div class="moonlit">
+    <figure class="new"><span class="newb" data-i18n="kits.newBadge">New</span><img src="/art/heroes/priest-moonlit.png" alt="Moonlit Priest" data-i18n-alt="kits.moonlit.priest"><figcaption data-i18n="kits.moonlit.priest">Moonlit Priest</figcaption></figure>
     <figure><img src="/art/heroes/archer-moonlit.png" alt="Moonlit Archer" data-i18n-alt="kits.moonlit.archer"><figcaption data-i18n="kits.moonlit.archer">Moonlit Archer</figcaption></figure>
     <figure class="mid"><img src="/art/heroes/mage-moonlit.png" alt="Moonlit Mage" data-i18n-alt="kits.moonlit.mage"><figcaption data-i18n="kits.moonlit.mage">Moonlit Mage</figcaption></figure>
     <figure><img src="/art/heroes/thief-moonlit.png" alt="Moonlit Thief" data-i18n-alt="kits.moonlit.thief"><figcaption data-i18n="kits.moonlit.thief">Moonlit Thief</figcaption></figure>
+    <figure class="new"><span class="newb" data-i18n="kits.newBadge">New</span><img src="/art/heroes/warrior-moonlit.png" alt="Moonlit Warrior" data-i18n-alt="kits.moonlit.warrior"><figcaption data-i18n="kits.moonlit.warrior">Moonlit Warrior</figcaption></figure>
     <p class="tag" data-i18n="kits.onlyInKits">Only in presale kits</p>
   </div>
   <div class="grid" id="kitGrid"></div>
