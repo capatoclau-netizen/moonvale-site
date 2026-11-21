@@ -31,7 +31,11 @@
     "mossnut": "monsters/mossnut.png",
     "glimmoth": "monsters/glimmoth.png",
     "pebblecrab": "monsters/pebblecrab.png",
-    "thornpup": "monsters/thornpup.png"
+    "thornpup": "monsters/thornpup.png",
+    "gloomslime": "monsters/gloomslime.png",
+    "nightfang": "monsters/nightfang.png",
+    "eclipsemoth": "monsters/eclipsemoth.png",
+    "gravecrab": "monsters/gravecrab.png"
   },
   "bosses": {
     "grumbark": "bosses/grumbark.png",
@@ -43,7 +47,12 @@
     "rook": "bosses/rook.png",
     "silkara": "bosses/silkara.png",
     "shepherd": "bosses/shepherd.png",
-    "nyx": "bosses/nyx.png"
+    "nyx": "bosses/nyx.png",
+    "inkmaw": "bosses/inkmaw.png",
+    "nightalpha": "bosses/nightalpha.png",
+    "eclipsematriarch": "bosses/eclipsematriarch.png",
+    "gravelord": "bosses/gravelord.png",
+    "abysswarden": "bosses/abysswarden.png"
   },
   "items": {
     "leather-cap": "items/leather-cap.png",

@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "nightfang-move-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-01": {
+   "frame": {
+    "x": 142,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-02": {
+   "frame": {
+    "x": 284,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-03": {
+   "frame": {
+    "x": 426,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-04": {
+   "frame": {
+    "x": 568,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-05": {
+   "frame": {
+    "x": 710,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-06": {
+   "frame": {
+    "x": 852,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-07": {
+   "frame": {
+    "x": 994,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-08": {
+   "frame": {
+    "x": 1136,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-09": {
+   "frame": {
+    "x": 1278,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-10": {
+   "frame": {
+    "x": 1420,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-11": {
+   "frame": {
+    "x": 1562,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-12": {
+   "frame": {
+    "x": 1704,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-13": {
+   "frame": {
+    "x": 1846,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-14": {
+   "frame": {
+    "x": 1988,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-15": {
+   "frame": {
+    "x": 2130,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-16": {
+   "frame": {
+    "x": 2272,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-17": {
+   "frame": {
+    "x": 2414,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-18": {
+   "frame": {
+    "x": 2556,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-19": {
+   "frame": {
+    "x": 2698,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-20": {
+   "frame": {
+    "x": 2840,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-21": {
+   "frame": {
+    "x": 2982,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-22": {
+   "frame": {
+    "x": 3124,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-23": {
+   "frame": {
+    "x": 3266,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-24": {
+   "frame": {
+    "x": 3408,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-25": {
+   "frame": {
+    "x": 3550,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-26": {
+   "frame": {
+    "x": 3692,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-27": {
+   "frame": {
+    "x": 3834,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-28": {
+   "frame": {
+    "x": 0,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-29": {
+   "frame": {
+    "x": 142,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-30": {
+   "frame": {
+    "x": 284,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-31": {
+   "frame": {
+    "x": 426,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-32": {
+   "frame": {
+    "x": 568,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-33": {
+   "frame": {
+    "x": 710,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-34": {
+   "frame": {
+    "x": 852,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-35": {
+   "frame": {
+    "x": 994,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  },
+  "nightfang-move-36": {
+   "frame": {
+    "x": 1136,
+    "y": 80,
+    "w": 142,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 142,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 142,
+    "h": 80
+   }
+  }
+ },
+ "animations": {
+  "move": [
+   "nightfang-move-00",
+   "nightfang-move-01",
+   "nightfang-move-02",
+   "nightfang-move-03",
+   "nightfang-move-04",
+   "nightfang-move-05",
+   "nightfang-move-06",
+   "nightfang-move-07",
+   "nightfang-move-08",
+   "nightfang-move-09",
+   "nightfang-move-10",
+   "nightfang-move-11",
+   "nightfang-move-12",
+   "nightfang-move-13",
+   "nightfang-move-14",
+   "nightfang-move-15",
+   "nightfang-move-16",
+   "nightfang-move-17",
+   "nightfang-move-18",
+   "nightfang-move-19",
+   "nightfang-move-20",
+   "nightfang-move-21",
+   "nightfang-move-22",
+   "nightfang-move-23",
+   "nightfang-move-24",
+   "nightfang-move-25",
+   "nightfang-move-26",
+   "nightfang-move-27",
+   "nightfang-move-28",
+   "nightfang-move-29",
+   "nightfang-move-30",
+   "nightfang-move-31",
+   "nightfang-move-32",
+   "nightfang-move-33",
+   "nightfang-move-34",
+   "nightfang-move-35",
+   "nightfang-move-36"
+  ]
+ },
+ "meta": {
+  "image": "nightfang-move.png",
+  "size": {
+   "w": 3976,
+   "h": 160
+  },
+  "scale": "1"
+ }
+}

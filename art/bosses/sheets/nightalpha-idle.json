@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "nightalpha-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-01": {
+   "frame": {
+    "x": 197,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-02": {
+   "frame": {
+    "x": 394,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-03": {
+   "frame": {
+    "x": 591,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-04": {
+   "frame": {
+    "x": 788,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-05": {
+   "frame": {
+    "x": 985,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-06": {
+   "frame": {
+    "x": 1182,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-07": {
+   "frame": {
+    "x": 1379,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-08": {
+   "frame": {
+    "x": 1576,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-09": {
+   "frame": {
+    "x": 1773,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-10": {
+   "frame": {
+    "x": 1970,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-11": {
+   "frame": {
+    "x": 2167,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-12": {
+   "frame": {
+    "x": 2364,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-13": {
+   "frame": {
+    "x": 2561,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-14": {
+   "frame": {
+    "x": 2758,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-15": {
+   "frame": {
+    "x": 2955,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-16": {
+   "frame": {
+    "x": 3152,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-17": {
+   "frame": {
+    "x": 3349,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-18": {
+   "frame": {
+    "x": 3546,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-19": {
+   "frame": {
+    "x": 3743,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-20": {
+   "frame": {
+    "x": 0,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-21": {
+   "frame": {
+    "x": 197,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-22": {
+   "frame": {
+    "x": 394,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-23": {
+   "frame": {
+    "x": 591,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-24": {
+   "frame": {
+    "x": 788,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-25": {
+   "frame": {
+    "x": 985,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-26": {
+   "frame": {
+    "x": 1182,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-27": {
+   "frame": {
+    "x": 1379,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-28": {
+   "frame": {
+    "x": 1576,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-29": {
+   "frame": {
+    "x": 1773,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-30": {
+   "frame": {
+    "x": 1970,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-31": {
+   "frame": {
+    "x": 2167,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-32": {
+   "frame": {
+    "x": 2364,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-33": {
+   "frame": {
+    "x": 2561,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-34": {
+   "frame": {
+    "x": 2758,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-35": {
+   "frame": {
+    "x": 2955,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  },
+  "nightalpha-idle-36": {
+   "frame": {
+    "x": 3152,
+    "y": 144,
+    "w": 197,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 197,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 197,
+    "h": 144
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "nightalpha-idle-00",
+   "nightalpha-idle-01",
+   "nightalpha-idle-02",
+   "nightalpha-idle-03",
+   "nightalpha-idle-04",
+   "nightalpha-idle-05",
+   "nightalpha-idle-06",
+   "nightalpha-idle-07",
+   "nightalpha-idle-08",
+   "nightalpha-idle-09",
+   "nightalpha-idle-10",
+   "nightalpha-idle-11",
+   "nightalpha-idle-12",
+   "nightalpha-idle-13",
+   "nightalpha-idle-14",
+   "nightalpha-idle-15",
+   "nightalpha-idle-16",
+   "nightalpha-idle-17",
+   "nightalpha-idle-18",
+   "nightalpha-idle-19",
+   "nightalpha-idle-20",
+   "nightalpha-idle-21",
+   "nightalpha-idle-22",
+   "nightalpha-idle-23",
+   "nightalpha-idle-24",
+   "nightalpha-idle-25",
+   "nightalpha-idle-26",
+   "nightalpha-idle-27",
+   "nightalpha-idle-28",
+   "nightalpha-idle-29",
+   "nightalpha-idle-30",
+   "nightalpha-idle-31",
+   "nightalpha-idle-32",
+   "nightalpha-idle-33",
+   "nightalpha-idle-34",
+   "nightalpha-idle-35",
+   "nightalpha-idle-36"
+  ]
+ },
+ "meta": {
+  "image": "nightalpha-idle.png",
+  "size": {
+   "w": 3940,
+   "h": 288
+  },
+  "scale": "1"
+ }
+}

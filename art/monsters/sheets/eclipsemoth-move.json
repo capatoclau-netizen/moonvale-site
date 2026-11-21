@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "eclipsemoth-move-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-01": {
+   "frame": {
+    "x": 129,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-02": {
+   "frame": {
+    "x": 258,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-03": {
+   "frame": {
+    "x": 387,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-04": {
+   "frame": {
+    "x": 516,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-05": {
+   "frame": {
+    "x": 645,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-06": {
+   "frame": {
+    "x": 774,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-07": {
+   "frame": {
+    "x": 903,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-08": {
+   "frame": {
+    "x": 1032,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-09": {
+   "frame": {
+    "x": 1161,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-10": {
+   "frame": {
+    "x": 1290,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-11": {
+   "frame": {
+    "x": 1419,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-12": {
+   "frame": {
+    "x": 1548,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-13": {
+   "frame": {
+    "x": 1677,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-14": {
+   "frame": {
+    "x": 1806,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-15": {
+   "frame": {
+    "x": 1935,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-16": {
+   "frame": {
+    "x": 2064,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-17": {
+   "frame": {
+    "x": 2193,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-18": {
+   "frame": {
+    "x": 2322,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-19": {
+   "frame": {
+    "x": 2451,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-20": {
+   "frame": {
+    "x": 2580,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-21": {
+   "frame": {
+    "x": 2709,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-22": {
+   "frame": {
+    "x": 2838,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-23": {
+   "frame": {
+    "x": 2967,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-24": {
+   "frame": {
+    "x": 3096,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-25": {
+   "frame": {
+    "x": 3225,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-26": {
+   "frame": {
+    "x": 3354,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-27": {
+   "frame": {
+    "x": 3483,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-28": {
+   "frame": {
+    "x": 3612,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-29": {
+   "frame": {
+    "x": 3741,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-30": {
+   "frame": {
+    "x": 3870,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-31": {
+   "frame": {
+    "x": 0,
+    "y": 80,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-32": {
+   "frame": {
+    "x": 129,
+    "y": 80,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-33": {
+   "frame": {
+    "x": 258,
+    "y": 80,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-34": {
+   "frame": {
+    "x": 387,
+    "y": 80,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-35": {
+   "frame": {
+    "x": 516,
+    "y": 80,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  },
+  "eclipsemoth-move-36": {
+   "frame": {
+    "x": 645,
+    "y": 80,
+    "w": 129,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 129,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 129,
+    "h": 80
+   }
+  }
+ },
+ "animations": {
+  "move": [
+   "eclipsemoth-move-00",
+   "eclipsemoth-move-01",
+   "eclipsemoth-move-02",
+   "eclipsemoth-move-03",
+   "eclipsemoth-move-04",
+   "eclipsemoth-move-05",
+   "eclipsemoth-move-06",
+   "eclipsemoth-move-07",
+   "eclipsemoth-move-08",
+   "eclipsemoth-move-09",
+   "eclipsemoth-move-10",
+   "eclipsemoth-move-11",
+   "eclipsemoth-move-12",
+   "eclipsemoth-move-13",
+   "eclipsemoth-move-14",
+   "eclipsemoth-move-15",
+   "eclipsemoth-move-16",
+   "eclipsemoth-move-17",
+   "eclipsemoth-move-18",
+   "eclipsemoth-move-19",
+   "eclipsemoth-move-20",
+   "eclipsemoth-move-21",
+   "eclipsemoth-move-22",
+   "eclipsemoth-move-23",
+   "eclipsemoth-move-24",
+   "eclipsemoth-move-25",
+   "eclipsemoth-move-26",
+   "eclipsemoth-move-27",
+   "eclipsemoth-move-28",
+   "eclipsemoth-move-29",
+   "eclipsemoth-move-30",
+   "eclipsemoth-move-31",
+   "eclipsemoth-move-32",
+   "eclipsemoth-move-33",
+   "eclipsemoth-move-34",
+   "eclipsemoth-move-35",
+   "eclipsemoth-move-36"
+  ]
+ },
+ "meta": {
+  "image": "eclipsemoth-move.png",
+  "size": {
+   "w": 3999,
+   "h": 160
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "abysswarden-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-01": {
+   "frame": {
+    "x": 131,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-02": {
+   "frame": {
+    "x": 262,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-03": {
+   "frame": {
+    "x": 393,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-04": {
+   "frame": {
+    "x": 524,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-05": {
+   "frame": {
+    "x": 655,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-06": {
+   "frame": {
+    "x": 786,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-07": {
+   "frame": {
+    "x": 917,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-08": {
+   "frame": {
+    "x": 1048,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-09": {
+   "frame": {
+    "x": 1179,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-10": {
+   "frame": {
+    "x": 1310,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-11": {
+   "frame": {
+    "x": 1441,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-12": {
+   "frame": {
+    "x": 1572,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-13": {
+   "frame": {
+    "x": 1703,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-14": {
+   "frame": {
+    "x": 1834,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-15": {
+   "frame": {
+    "x": 1965,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-16": {
+   "frame": {
+    "x": 2096,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-17": {
+   "frame": {
+    "x": 2227,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-18": {
+   "frame": {
+    "x": 2358,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-19": {
+   "frame": {
+    "x": 2489,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-20": {
+   "frame": {
+    "x": 2620,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-21": {
+   "frame": {
+    "x": 2751,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-22": {
+   "frame": {
+    "x": 2882,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-23": {
+   "frame": {
+    "x": 3013,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-24": {
+   "frame": {
+    "x": 3144,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-25": {
+   "frame": {
+    "x": 3275,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-26": {
+   "frame": {
+    "x": 3406,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-27": {
+   "frame": {
+    "x": 3537,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-28": {
+   "frame": {
+    "x": 3668,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-29": {
+   "frame": {
+    "x": 3799,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-30": {
+   "frame": {
+    "x": 3930,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-31": {
+   "frame": {
+    "x": 0,
+    "y": 144,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-32": {
+   "frame": {
+    "x": 131,
+    "y": 144,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-33": {
+   "frame": {
+    "x": 262,
+    "y": 144,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-34": {
+   "frame": {
+    "x": 393,
+    "y": 144,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-35": {
+   "frame": {
+    "x": 524,
+    "y": 144,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  },
+  "abysswarden-idle-36": {
+   "frame": {
+    "x": 655,
+    "y": 144,
+    "w": 131,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 131,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 131,
+    "h": 144
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "abysswarden-idle-00",
+   "abysswarden-idle-01",
+   "abysswarden-idle-02",
+   "abysswarden-idle-03",
+   "abysswarden-idle-04",
+   "abysswarden-idle-05",
+   "abysswarden-idle-06",
+   "abysswarden-idle-07",
+   "abysswarden-idle-08",
+   "abysswarden-idle-09",
+   "abysswarden-idle-10",
+   "abysswarden-idle-11",
+   "abysswarden-idle-12",
+   "abysswarden-idle-13",
+   "abysswarden-idle-14",
+   "abysswarden-idle-15",
+   "abysswarden-idle-16",
+   "abysswarden-idle-17",
+   "abysswarden-idle-18",
+   "abysswarden-idle-19",
+   "abysswarden-idle-20",
+   "abysswarden-idle-21",
+   "abysswarden-idle-22",
+   "abysswarden-idle-23",
+   "abysswarden-idle-24",
+   "abysswarden-idle-25",
+   "abysswarden-idle-26",
+   "abysswarden-idle-27",
+   "abysswarden-idle-28",
+   "abysswarden-idle-29",
+   "abysswarden-idle-30",
+   "abysswarden-idle-31",
+   "abysswarden-idle-32",
+   "abysswarden-idle-33",
+   "abysswarden-idle-34",
+   "abysswarden-idle-35",
+   "abysswarden-idle-36"
+  ]
+ },
+ "meta": {
+  "image": "abysswarden-idle.png",
+  "size": {
+   "w": 4061,
+   "h": 288
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,415 @@
+{
+ "frames": {
+  "gravecrab-move-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-01": {
+   "frame": {
+    "x": 79,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-02": {
+   "frame": {
+    "x": 158,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-03": {
+   "frame": {
+    "x": 237,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-04": {
+   "frame": {
+    "x": 316,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-05": {
+   "frame": {
+    "x": 395,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-06": {
+   "frame": {
+    "x": 474,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-07": {
+   "frame": {
+    "x": 553,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-08": {
+   "frame": {
+    "x": 632,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-09": {
+   "frame": {
+    "x": 711,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-10": {
+   "frame": {
+    "x": 790,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-11": {
+   "frame": {
+    "x": 869,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-12": {
+   "frame": {
+    "x": 948,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-13": {
+   "frame": {
+    "x": 1027,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-14": {
+   "frame": {
+    "x": 1106,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-15": {
+   "frame": {
+    "x": 1185,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-16": {
+   "frame": {
+    "x": 1264,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-17": {
+   "frame": {
+    "x": 1343,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-18": {
+   "frame": {
+    "x": 1422,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-19": {
+   "frame": {
+    "x": 1501,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  },
+  "gravecrab-move-20": {
+   "frame": {
+    "x": 1580,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 79,
+    "h": 80
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 79,
+    "h": 80
+   }
+  }
+ },
+ "animations": {
+  "move": [
+   "gravecrab-move-00",
+   "gravecrab-move-01",
+   "gravecrab-move-02",
+   "gravecrab-move-03",
+   "gravecrab-move-04",
+   "gravecrab-move-05",
+   "gravecrab-move-06",
+   "gravecrab-move-07",
+   "gravecrab-move-08",
+   "gravecrab-move-09",
+   "gravecrab-move-10",
+   "gravecrab-move-11",
+   "gravecrab-move-12",
+   "gravecrab-move-13",
+   "gravecrab-move-14",
+   "gravecrab-move-15",
+   "gravecrab-move-16",
+   "gravecrab-move-17",
+   "gravecrab-move-18",
+   "gravecrab-move-19",
+   "gravecrab-move-20"
+  ]
+ },
+ "meta": {
+  "image": "gravecrab-move.png",
+  "size": {
+   "w": 1659,
+   "h": 80
+  },
+  "scale": "1"
+ }
+}

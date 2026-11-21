@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "inkmaw-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-01": {
+   "frame": {
+    "x": 162,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-02": {
+   "frame": {
+    "x": 324,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-03": {
+   "frame": {
+    "x": 486,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-04": {
+   "frame": {
+    "x": 648,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-05": {
+   "frame": {
+    "x": 810,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-06": {
+   "frame": {
+    "x": 972,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-07": {
+   "frame": {
+    "x": 1134,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-08": {
+   "frame": {
+    "x": 1296,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-09": {
+   "frame": {
+    "x": 1458,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-10": {
+   "frame": {
+    "x": 1620,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-11": {
+   "frame": {
+    "x": 1782,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-12": {
+   "frame": {
+    "x": 1944,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-13": {
+   "frame": {
+    "x": 2106,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-14": {
+   "frame": {
+    "x": 2268,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-15": {
+   "frame": {
+    "x": 2430,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-16": {
+   "frame": {
+    "x": 2592,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-17": {
+   "frame": {
+    "x": 2754,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-18": {
+   "frame": {
+    "x": 2916,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-19": {
+   "frame": {
+    "x": 3078,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-20": {
+   "frame": {
+    "x": 3240,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-21": {
+   "frame": {
+    "x": 3402,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-22": {
+   "frame": {
+    "x": 3564,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-23": {
+   "frame": {
+    "x": 3726,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-24": {
+   "frame": {
+    "x": 3888,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-25": {
+   "frame": {
+    "x": 0,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-26": {
+   "frame": {
+    "x": 162,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-27": {
+   "frame": {
+    "x": 324,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-28": {
+   "frame": {
+    "x": 486,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-29": {
+   "frame": {
+    "x": 648,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-30": {
+   "frame": {
+    "x": 810,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-31": {
+   "frame": {
+    "x": 972,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-32": {
+   "frame": {
+    "x": 1134,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-33": {
+   "frame": {
+    "x": 1296,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-34": {
+   "frame": {
+    "x": 1458,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-35": {
+   "frame": {
+    "x": 1620,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  },
+  "inkmaw-idle-36": {
+   "frame": {
+    "x": 1782,
+    "y": 144,
+    "w": 162,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 162,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 162,
+    "h": 144
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "inkmaw-idle-00",
+   "inkmaw-idle-01",
+   "inkmaw-idle-02",
+   "inkmaw-idle-03",
+   "inkmaw-idle-04",
+   "inkmaw-idle-05",
+   "inkmaw-idle-06",
+   "inkmaw-idle-07",
+   "inkmaw-idle-08",
+   "inkmaw-idle-09",
+   "inkmaw-idle-10",
+   "inkmaw-idle-11",
+   "inkmaw-idle-12",
+   "inkmaw-idle-13",
+   "inkmaw-idle-14",
+   "inkmaw-idle-15",
+   "inkmaw-idle-16",
+   "inkmaw-idle-17",
+   "inkmaw-idle-18",
+   "inkmaw-idle-19",
+   "inkmaw-idle-20",
+   "inkmaw-idle-21",
+   "inkmaw-idle-22",
+   "inkmaw-idle-23",
+   "inkmaw-idle-24",
+   "inkmaw-idle-25",
+   "inkmaw-idle-26",
+   "inkmaw-idle-27",
+   "inkmaw-idle-28",
+   "inkmaw-idle-29",
+   "inkmaw-idle-30",
+   "inkmaw-idle-31",
+   "inkmaw-idle-32",
+   "inkmaw-idle-33",
+   "inkmaw-idle-34",
+   "inkmaw-idle-35",
+   "inkmaw-idle-36"
+  ]
+ },
+ "meta": {
+  "image": "inkmaw-idle.png",
+  "size": {
+   "w": 4050,
+   "h": 288
+  },
+  "scale": "1"
+ }
+}

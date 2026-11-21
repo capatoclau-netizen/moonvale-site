@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "gravelord-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-01": {
+   "frame": {
+    "x": 167,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-02": {
+   "frame": {
+    "x": 334,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-03": {
+   "frame": {
+    "x": 501,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-04": {
+   "frame": {
+    "x": 668,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-05": {
+   "frame": {
+    "x": 835,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-06": {
+   "frame": {
+    "x": 1002,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-07": {
+   "frame": {
+    "x": 1169,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-08": {
+   "frame": {
+    "x": 1336,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-09": {
+   "frame": {
+    "x": 1503,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-10": {
+   "frame": {
+    "x": 1670,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-11": {
+   "frame": {
+    "x": 1837,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-12": {
+   "frame": {
+    "x": 2004,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-13": {
+   "frame": {
+    "x": 2171,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-14": {
+   "frame": {
+    "x": 2338,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-15": {
+   "frame": {
+    "x": 2505,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-16": {
+   "frame": {
+    "x": 2672,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-17": {
+   "frame": {
+    "x": 2839,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-18": {
+   "frame": {
+    "x": 3006,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-19": {
+   "frame": {
+    "x": 3173,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-20": {
+   "frame": {
+    "x": 3340,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-21": {
+   "frame": {
+    "x": 3507,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-22": {
+   "frame": {
+    "x": 3674,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-23": {
+   "frame": {
+    "x": 3841,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-24": {
+   "frame": {
+    "x": 0,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-25": {
+   "frame": {
+    "x": 167,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-26": {
+   "frame": {
+    "x": 334,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-27": {
+   "frame": {
+    "x": 501,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-28": {
+   "frame": {
+    "x": 668,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-29": {
+   "frame": {
+    "x": 835,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-30": {
+   "frame": {
+    "x": 1002,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-31": {
+   "frame": {
+    "x": 1169,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-32": {
+   "frame": {
+    "x": 1336,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-33": {
+   "frame": {
+    "x": 1503,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-34": {
+   "frame": {
+    "x": 1670,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-35": {
+   "frame": {
+    "x": 1837,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  },
+  "gravelord-idle-36": {
+   "frame": {
+    "x": 2004,
+    "y": 144,
+    "w": 167,
+    "h": 144
+   },
+   "sourceSize": {
+    "w": 167,
+    "h": 144
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 167,
+    "h": 144
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "gravelord-idle-00",
+   "gravelord-idle-01",
+   "gravelord-idle-02",
+   "gravelord-idle-03",
+   "gravelord-idle-04",
+   "gravelord-idle-05",
+   "gravelord-idle-06",
+   "gravelord-idle-07",
+   "gravelord-idle-08",
+   "gravelord-idle-09",
+   "gravelord-idle-10",
+   "gravelord-idle-11",
+   "gravelord-idle-12",
+   "gravelord-idle-13",
+   "gravelord-idle-14",
+   "gravelord-idle-15",
+   "gravelord-idle-16",
+   "gravelord-idle-17",
+   "gravelord-idle-18",
+   "gravelord-idle-19",
+   "gravelord-idle-20",
+   "gravelord-idle-21",
+   "gravelord-idle-22",
+   "gravelord-idle-23",
+   "gravelord-idle-24",
+   "gravelord-idle-25",
+   "gravelord-idle-26",
+   "gravelord-idle-27",
+   "gravelord-idle-28",
+   "gravelord-idle-29",
+   "gravelord-idle-30",
+   "gravelord-idle-31",
+   "gravelord-idle-32",
+   "gravelord-idle-33",
+   "gravelord-idle-34",
+   "gravelord-idle-35",
+   "gravelord-idle-36"
+  ]
+ },
+ "meta": {
+  "image": "gravelord-idle.png",
+  "size": {
+   "w": 4008,
+   "h": 288
+  },
+  "scale": "1"
+ }
+}
