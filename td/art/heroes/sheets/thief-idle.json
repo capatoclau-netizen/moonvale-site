@@ -1,0 +1,1384 @@
+{
+ "frames": {
+  "thief-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-01": {
+   "frame": {
+    "x": 151,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-02": {
+   "frame": {
+    "x": 302,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-03": {
+   "frame": {
+    "x": 453,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-04": {
+   "frame": {
+    "x": 604,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-05": {
+   "frame": {
+    "x": 755,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-06": {
+   "frame": {
+    "x": 906,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-07": {
+   "frame": {
+    "x": 1057,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-08": {
+   "frame": {
+    "x": 1208,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-09": {
+   "frame": {
+    "x": 1359,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-10": {
+   "frame": {
+    "x": 1510,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-11": {
+   "frame": {
+    "x": 1661,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-12": {
+   "frame": {
+    "x": 1812,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-13": {
+   "frame": {
+    "x": 1963,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-14": {
+   "frame": {
+    "x": 2114,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-15": {
+   "frame": {
+    "x": 2265,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-16": {
+   "frame": {
+    "x": 2416,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-17": {
+   "frame": {
+    "x": 2567,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-18": {
+   "frame": {
+    "x": 2718,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-19": {
+   "frame": {
+    "x": 2869,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-20": {
+   "frame": {
+    "x": 3020,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-21": {
+   "frame": {
+    "x": 3171,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-22": {
+   "frame": {
+    "x": 3322,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-23": {
+   "frame": {
+    "x": 3473,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-24": {
+   "frame": {
+    "x": 3624,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-25": {
+   "frame": {
+    "x": 3775,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-26": {
+   "frame": {
+    "x": 3926,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-27": {
+   "frame": {
+    "x": 0,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-28": {
+   "frame": {
+    "x": 151,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-29": {
+   "frame": {
+    "x": 302,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-30": {
+   "frame": {
+    "x": 453,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-31": {
+   "frame": {
+    "x": 604,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-32": {
+   "frame": {
+    "x": 755,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-33": {
+   "frame": {
+    "x": 906,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-34": {
+   "frame": {
+    "x": 1057,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-35": {
+   "frame": {
+    "x": 1208,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-36": {
+   "frame": {
+    "x": 1359,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-37": {
+   "frame": {
+    "x": 1510,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-38": {
+   "frame": {
+    "x": 1661,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-39": {
+   "frame": {
+    "x": 1812,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-40": {
+   "frame": {
+    "x": 1963,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-41": {
+   "frame": {
+    "x": 2114,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-42": {
+   "frame": {
+    "x": 2265,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-43": {
+   "frame": {
+    "x": 2416,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-44": {
+   "frame": {
+    "x": 2567,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-45": {
+   "frame": {
+    "x": 2718,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-46": {
+   "frame": {
+    "x": 2869,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-47": {
+   "frame": {
+    "x": 3020,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-48": {
+   "frame": {
+    "x": 3171,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-49": {
+   "frame": {
+    "x": 3322,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-50": {
+   "frame": {
+    "x": 3473,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-51": {
+   "frame": {
+    "x": 3624,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-52": {
+   "frame": {
+    "x": 3775,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-53": {
+   "frame": {
+    "x": 3926,
+    "y": 96,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-54": {
+   "frame": {
+    "x": 0,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-55": {
+   "frame": {
+    "x": 151,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-56": {
+   "frame": {
+    "x": 302,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-57": {
+   "frame": {
+    "x": 453,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-58": {
+   "frame": {
+    "x": 604,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-59": {
+   "frame": {
+    "x": 755,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-60": {
+   "frame": {
+    "x": 906,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-61": {
+   "frame": {
+    "x": 1057,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-62": {
+   "frame": {
+    "x": 1208,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-63": {
+   "frame": {
+    "x": 1359,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-64": {
+   "frame": {
+    "x": 1510,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-65": {
+   "frame": {
+    "x": 1661,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-66": {
+   "frame": {
+    "x": 1812,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-67": {
+   "frame": {
+    "x": 1963,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-68": {
+   "frame": {
+    "x": 2114,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-69": {
+   "frame": {
+    "x": 2265,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-70": {
+   "frame": {
+    "x": 2416,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  },
+  "thief-idle-71": {
+   "frame": {
+    "x": 2567,
+    "y": 192,
+    "w": 151,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 151,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 151,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "thief-idle-00",
+   "thief-idle-01",
+   "thief-idle-02",
+   "thief-idle-03",
+   "thief-idle-04",
+   "thief-idle-05",
+   "thief-idle-06",
+   "thief-idle-07",
+   "thief-idle-08",
+   "thief-idle-09",
+   "thief-idle-10",
+   "thief-idle-11",
+   "thief-idle-12",
+   "thief-idle-13",
+   "thief-idle-14",
+   "thief-idle-15",
+   "thief-idle-16",
+   "thief-idle-17",
+   "thief-idle-18",
+   "thief-idle-19",
+   "thief-idle-20",
+   "thief-idle-21",
+   "thief-idle-22",
+   "thief-idle-23",
+   "thief-idle-24",
+   "thief-idle-25",
+   "thief-idle-26",
+   "thief-idle-27",
+   "thief-idle-28",
+   "thief-idle-29",
+   "thief-idle-30",
+   "thief-idle-31",
+   "thief-idle-32",
+   "thief-idle-33",
+   "thief-idle-34",
+   "thief-idle-35",
+   "thief-idle-36",
+   "thief-idle-37",
+   "thief-idle-38",
+   "thief-idle-39",
+   "thief-idle-40",
+   "thief-idle-41",
+   "thief-idle-42",
+   "thief-idle-43",
+   "thief-idle-44",
+   "thief-idle-45",
+   "thief-idle-46",
+   "thief-idle-47",
+   "thief-idle-48",
+   "thief-idle-49",
+   "thief-idle-50",
+   "thief-idle-51",
+   "thief-idle-52",
+   "thief-idle-53",
+   "thief-idle-54",
+   "thief-idle-55",
+   "thief-idle-56",
+   "thief-idle-57",
+   "thief-idle-58",
+   "thief-idle-59",
+   "thief-idle-60",
+   "thief-idle-61",
+   "thief-idle-62",
+   "thief-idle-63",
+   "thief-idle-64",
+   "thief-idle-65",
+   "thief-idle-66",
+   "thief-idle-67",
+   "thief-idle-68",
+   "thief-idle-69",
+   "thief-idle-70",
+   "thief-idle-71"
+  ]
+ },
+ "meta": {
+  "image": "thief-idle.png",
+  "size": {
+   "w": 4077,
+   "h": 288
+  },
+  "scale": "1"
+ }
+}
