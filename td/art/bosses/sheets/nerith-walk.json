@@ -1,0 +1,263 @@
+{
+ "frames": {
+  "nerith-walk-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-01": {
+   "frame": {
+    "x": 206,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-02": {
+   "frame": {
+    "x": 412,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-03": {
+   "frame": {
+    "x": 618,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-04": {
+   "frame": {
+    "x": 824,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-05": {
+   "frame": {
+    "x": 1030,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-06": {
+   "frame": {
+    "x": 1236,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-07": {
+   "frame": {
+    "x": 1442,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-08": {
+   "frame": {
+    "x": 1648,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-09": {
+   "frame": {
+    "x": 1854,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-10": {
+   "frame": {
+    "x": 2060,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-11": {
+   "frame": {
+    "x": 2266,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  },
+  "nerith-walk-12": {
+   "frame": {
+    "x": 2472,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 206,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 206,
+    "h": 148
+   }
+  }
+ },
+ "animations": {
+  "walk": [
+   "nerith-walk-00",
+   "nerith-walk-01",
+   "nerith-walk-02",
+   "nerith-walk-03",
+   "nerith-walk-04",
+   "nerith-walk-05",
+   "nerith-walk-06",
+   "nerith-walk-07",
+   "nerith-walk-08",
+   "nerith-walk-09",
+   "nerith-walk-10",
+   "nerith-walk-11",
+   "nerith-walk-12"
+  ]
+ },
+ "meta": {
+  "image": "nerith-walk.png",
+  "size": {
+   "w": 2678,
+   "h": 148
+  },
+  "scale": "1"
+ }
+}

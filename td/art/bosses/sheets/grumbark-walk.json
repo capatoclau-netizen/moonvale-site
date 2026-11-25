@@ -1,0 +1,472 @@
+{
+ "frames": {
+  "grumbark-walk-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-01": {
+   "frame": {
+    "x": 204,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-02": {
+   "frame": {
+    "x": 408,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-03": {
+   "frame": {
+    "x": 612,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-04": {
+   "frame": {
+    "x": 816,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-05": {
+   "frame": {
+    "x": 1020,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-06": {
+   "frame": {
+    "x": 1224,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-07": {
+   "frame": {
+    "x": 1428,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-08": {
+   "frame": {
+    "x": 1632,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-09": {
+   "frame": {
+    "x": 1836,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-10": {
+   "frame": {
+    "x": 2040,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-11": {
+   "frame": {
+    "x": 2244,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-12": {
+   "frame": {
+    "x": 2448,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-13": {
+   "frame": {
+    "x": 2652,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-14": {
+   "frame": {
+    "x": 2856,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-15": {
+   "frame": {
+    "x": 3060,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-16": {
+   "frame": {
+    "x": 3264,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-17": {
+   "frame": {
+    "x": 3468,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-18": {
+   "frame": {
+    "x": 3672,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-19": {
+   "frame": {
+    "x": 3876,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-20": {
+   "frame": {
+    "x": 0,
+    "y": 148,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-21": {
+   "frame": {
+    "x": 204,
+    "y": 148,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-22": {
+   "frame": {
+    "x": 408,
+    "y": 148,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  },
+  "grumbark-walk-23": {
+   "frame": {
+    "x": 612,
+    "y": 148,
+    "w": 204,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 204,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 204,
+    "h": 148
+   }
+  }
+ },
+ "animations": {
+  "walk": [
+   "grumbark-walk-00",
+   "grumbark-walk-01",
+   "grumbark-walk-02",
+   "grumbark-walk-03",
+   "grumbark-walk-04",
+   "grumbark-walk-05",
+   "grumbark-walk-06",
+   "grumbark-walk-07",
+   "grumbark-walk-08",
+   "grumbark-walk-09",
+   "grumbark-walk-10",
+   "grumbark-walk-11",
+   "grumbark-walk-12",
+   "grumbark-walk-13",
+   "grumbark-walk-14",
+   "grumbark-walk-15",
+   "grumbark-walk-16",
+   "grumbark-walk-17",
+   "grumbark-walk-18",
+   "grumbark-walk-19",
+   "grumbark-walk-20",
+   "grumbark-walk-21",
+   "grumbark-walk-22",
+   "grumbark-walk-23"
+  ]
+ },
+ "meta": {
+  "image": "grumbark-walk.png",
+  "size": {
+   "w": 4080,
+   "h": 296
+  },
+  "scale": "1"
+ }
+}
