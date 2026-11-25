@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "gearshop-loop-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-01": {
+   "frame": {
+    "x": 169,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-02": {
+   "frame": {
+    "x": 338,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-03": {
+   "frame": {
+    "x": 507,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-04": {
+   "frame": {
+    "x": 676,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-05": {
+   "frame": {
+    "x": 845,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-06": {
+   "frame": {
+    "x": 1014,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-07": {
+   "frame": {
+    "x": 1183,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-08": {
+   "frame": {
+    "x": 1352,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-09": {
+   "frame": {
+    "x": 1521,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-10": {
+   "frame": {
+    "x": 1690,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-11": {
+   "frame": {
+    "x": 1859,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-12": {
+   "frame": {
+    "x": 2028,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-13": {
+   "frame": {
+    "x": 2197,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-14": {
+   "frame": {
+    "x": 2366,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-15": {
+   "frame": {
+    "x": 2535,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-16": {
+   "frame": {
+    "x": 2704,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-17": {
+   "frame": {
+    "x": 2873,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-18": {
+   "frame": {
+    "x": 3042,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-19": {
+   "frame": {
+    "x": 3211,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-20": {
+   "frame": {
+    "x": 3380,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-21": {
+   "frame": {
+    "x": 3549,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-22": {
+   "frame": {
+    "x": 3718,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-23": {
+   "frame": {
+    "x": 3887,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-24": {
+   "frame": {
+    "x": 0,
+    "y": 170,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-25": {
+   "frame": {
+    "x": 169,
+    "y": 170,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-26": {
+   "frame": {
+    "x": 338,
+    "y": 170,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-27": {
+   "frame": {
+    "x": 507,
+    "y": 170,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-28": {
+   "frame": {
+    "x": 676,
+    "y": 170,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  },
+  "gearshop-loop-29": {
+   "frame": {
+    "x": 845,
+    "y": 170,
+    "w": 169,
+    "h": 170
+   },
+   "sourceSize": {
+    "w": 169,
+    "h": 170
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 169,
+    "h": 170
+   }
+  }
+ },
+ "animations": {
+  "loop": [
+   "gearshop-loop-00",
+   "gearshop-loop-01",
+   "gearshop-loop-02",
+   "gearshop-loop-03",
+   "gearshop-loop-04",
+   "gearshop-loop-05",
+   "gearshop-loop-06",
+   "gearshop-loop-07",
+   "gearshop-loop-08",
+   "gearshop-loop-09",
+   "gearshop-loop-10",
+   "gearshop-loop-11",
+   "gearshop-loop-12",
+   "gearshop-loop-13",
+   "gearshop-loop-14",
+   "gearshop-loop-15",
+   "gearshop-loop-16",
+   "gearshop-loop-17",
+   "gearshop-loop-18",
+   "gearshop-loop-19",
+   "gearshop-loop-20",
+   "gearshop-loop-21",
+   "gearshop-loop-22",
+   "gearshop-loop-23",
+   "gearshop-loop-24",
+   "gearshop-loop-25",
+   "gearshop-loop-26",
+   "gearshop-loop-27",
+   "gearshop-loop-28",
+   "gearshop-loop-29"
+  ]
+ },
+ "meta": {
+  "image": "gearshop-loop.png",
+  "size": {
+   "w": 4056,
+   "h": 340
+  },
+  "scale": "1"
+ }
+}

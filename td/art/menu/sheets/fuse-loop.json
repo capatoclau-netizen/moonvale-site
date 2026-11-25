@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "fuse-loop-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-01": {
+   "frame": {
+    "x": 163,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-02": {
+   "frame": {
+    "x": 326,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-03": {
+   "frame": {
+    "x": 489,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-04": {
+   "frame": {
+    "x": 652,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-05": {
+   "frame": {
+    "x": 815,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-06": {
+   "frame": {
+    "x": 978,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-07": {
+   "frame": {
+    "x": 1141,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-08": {
+   "frame": {
+    "x": 1304,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-09": {
+   "frame": {
+    "x": 1467,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-10": {
+   "frame": {
+    "x": 1630,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-11": {
+   "frame": {
+    "x": 1793,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-12": {
+   "frame": {
+    "x": 1956,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-13": {
+   "frame": {
+    "x": 2119,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-14": {
+   "frame": {
+    "x": 2282,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-15": {
+   "frame": {
+    "x": 2445,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-16": {
+   "frame": {
+    "x": 2608,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-17": {
+   "frame": {
+    "x": 2771,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-18": {
+   "frame": {
+    "x": 2934,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-19": {
+   "frame": {
+    "x": 3097,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-20": {
+   "frame": {
+    "x": 3260,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-21": {
+   "frame": {
+    "x": 3423,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-22": {
+   "frame": {
+    "x": 3586,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-23": {
+   "frame": {
+    "x": 3749,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-24": {
+   "frame": {
+    "x": 3912,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-25": {
+   "frame": {
+    "x": 0,
+    "y": 160,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-26": {
+   "frame": {
+    "x": 163,
+    "y": 160,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-27": {
+   "frame": {
+    "x": 326,
+    "y": 160,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-28": {
+   "frame": {
+    "x": 489,
+    "y": 160,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  },
+  "fuse-loop-29": {
+   "frame": {
+    "x": 652,
+    "y": 160,
+    "w": 163,
+    "h": 160
+   },
+   "sourceSize": {
+    "w": 163,
+    "h": 160
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 163,
+    "h": 160
+   }
+  }
+ },
+ "animations": {
+  "loop": [
+   "fuse-loop-00",
+   "fuse-loop-01",
+   "fuse-loop-02",
+   "fuse-loop-03",
+   "fuse-loop-04",
+   "fuse-loop-05",
+   "fuse-loop-06",
+   "fuse-loop-07",
+   "fuse-loop-08",
+   "fuse-loop-09",
+   "fuse-loop-10",
+   "fuse-loop-11",
+   "fuse-loop-12",
+   "fuse-loop-13",
+   "fuse-loop-14",
+   "fuse-loop-15",
+   "fuse-loop-16",
+   "fuse-loop-17",
+   "fuse-loop-18",
+   "fuse-loop-19",
+   "fuse-loop-20",
+   "fuse-loop-21",
+   "fuse-loop-22",
+   "fuse-loop-23",
+   "fuse-loop-24",
+   "fuse-loop-25",
+   "fuse-loop-26",
+   "fuse-loop-27",
+   "fuse-loop-28",
+   "fuse-loop-29"
+  ]
+ },
+ "meta": {
+  "image": "fuse-loop.png",
+  "size": {
+   "w": 4075,
+   "h": 320
+  },
+  "scale": "1"
+ }
+}
