@@ -1,0 +1,700 @@
+{
+ "frames": {
+  "artificer-attack-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-01": {
+   "frame": {
+    "x": 102,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-02": {
+   "frame": {
+    "x": 204,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-03": {
+   "frame": {
+    "x": 306,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-04": {
+   "frame": {
+    "x": 408,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-05": {
+   "frame": {
+    "x": 510,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-06": {
+   "frame": {
+    "x": 612,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-07": {
+   "frame": {
+    "x": 714,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-08": {
+   "frame": {
+    "x": 816,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-09": {
+   "frame": {
+    "x": 918,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-10": {
+   "frame": {
+    "x": 1020,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-11": {
+   "frame": {
+    "x": 1122,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-12": {
+   "frame": {
+    "x": 1224,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-13": {
+   "frame": {
+    "x": 1326,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-14": {
+   "frame": {
+    "x": 1428,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-15": {
+   "frame": {
+    "x": 1530,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-16": {
+   "frame": {
+    "x": 1632,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-17": {
+   "frame": {
+    "x": 1734,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-18": {
+   "frame": {
+    "x": 1836,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-19": {
+   "frame": {
+    "x": 1938,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-20": {
+   "frame": {
+    "x": 2040,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-21": {
+   "frame": {
+    "x": 2142,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-22": {
+   "frame": {
+    "x": 2244,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-23": {
+   "frame": {
+    "x": 2346,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-24": {
+   "frame": {
+    "x": 2448,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-25": {
+   "frame": {
+    "x": 2550,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-26": {
+   "frame": {
+    "x": 2652,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-27": {
+   "frame": {
+    "x": 2754,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-28": {
+   "frame": {
+    "x": 2856,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-29": {
+   "frame": {
+    "x": 2958,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-30": {
+   "frame": {
+    "x": 3060,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-31": {
+   "frame": {
+    "x": 3162,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-32": {
+   "frame": {
+    "x": 3264,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-33": {
+   "frame": {
+    "x": 3366,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-34": {
+   "frame": {
+    "x": 3468,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  },
+  "artificer-attack-35": {
+   "frame": {
+    "x": 3570,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 102,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 102,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "attack": [
+   "artificer-attack-00",
+   "artificer-attack-01",
+   "artificer-attack-02",
+   "artificer-attack-03",
+   "artificer-attack-04",
+   "artificer-attack-05",
+   "artificer-attack-06",
+   "artificer-attack-07",
+   "artificer-attack-08",
+   "artificer-attack-09",
+   "artificer-attack-10",
+   "artificer-attack-11",
+   "artificer-attack-12",
+   "artificer-attack-13",
+   "artificer-attack-14",
+   "artificer-attack-15",
+   "artificer-attack-16",
+   "artificer-attack-17",
+   "artificer-attack-18",
+   "artificer-attack-19",
+   "artificer-attack-20",
+   "artificer-attack-21",
+   "artificer-attack-22",
+   "artificer-attack-23",
+   "artificer-attack-24",
+   "artificer-attack-25",
+   "artificer-attack-26",
+   "artificer-attack-27",
+   "artificer-attack-28",
+   "artificer-attack-29",
+   "artificer-attack-30",
+   "artificer-attack-31",
+   "artificer-attack-32",
+   "artificer-attack-33",
+   "artificer-attack-34",
+   "artificer-attack-35"
+  ]
+ },
+ "meta": {
+  "image": "artificer-attack.png",
+  "size": {
+   "w": 3672,
+   "h": 96
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,700 @@
+{
+ "frames": {
+  "alchemist-attack-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-01": {
+   "frame": {
+    "x": 83,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-02": {
+   "frame": {
+    "x": 166,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-03": {
+   "frame": {
+    "x": 249,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-04": {
+   "frame": {
+    "x": 332,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-05": {
+   "frame": {
+    "x": 415,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-06": {
+   "frame": {
+    "x": 498,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-07": {
+   "frame": {
+    "x": 581,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-08": {
+   "frame": {
+    "x": 664,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-09": {
+   "frame": {
+    "x": 747,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-10": {
+   "frame": {
+    "x": 830,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-11": {
+   "frame": {
+    "x": 913,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-12": {
+   "frame": {
+    "x": 996,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-13": {
+   "frame": {
+    "x": 1079,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-14": {
+   "frame": {
+    "x": 1162,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-15": {
+   "frame": {
+    "x": 1245,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-16": {
+   "frame": {
+    "x": 1328,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-17": {
+   "frame": {
+    "x": 1411,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-18": {
+   "frame": {
+    "x": 1494,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-19": {
+   "frame": {
+    "x": 1577,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-20": {
+   "frame": {
+    "x": 1660,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-21": {
+   "frame": {
+    "x": 1743,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-22": {
+   "frame": {
+    "x": 1826,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-23": {
+   "frame": {
+    "x": 1909,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-24": {
+   "frame": {
+    "x": 1992,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-25": {
+   "frame": {
+    "x": 2075,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-26": {
+   "frame": {
+    "x": 2158,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-27": {
+   "frame": {
+    "x": 2241,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-28": {
+   "frame": {
+    "x": 2324,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-29": {
+   "frame": {
+    "x": 2407,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-30": {
+   "frame": {
+    "x": 2490,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-31": {
+   "frame": {
+    "x": 2573,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-32": {
+   "frame": {
+    "x": 2656,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-33": {
+   "frame": {
+    "x": 2739,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-34": {
+   "frame": {
+    "x": 2822,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  },
+  "alchemist-attack-35": {
+   "frame": {
+    "x": 2905,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 83,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 83,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "attack": [
+   "alchemist-attack-00",
+   "alchemist-attack-01",
+   "alchemist-attack-02",
+   "alchemist-attack-03",
+   "alchemist-attack-04",
+   "alchemist-attack-05",
+   "alchemist-attack-06",
+   "alchemist-attack-07",
+   "alchemist-attack-08",
+   "alchemist-attack-09",
+   "alchemist-attack-10",
+   "alchemist-attack-11",
+   "alchemist-attack-12",
+   "alchemist-attack-13",
+   "alchemist-attack-14",
+   "alchemist-attack-15",
+   "alchemist-attack-16",
+   "alchemist-attack-17",
+   "alchemist-attack-18",
+   "alchemist-attack-19",
+   "alchemist-attack-20",
+   "alchemist-attack-21",
+   "alchemist-attack-22",
+   "alchemist-attack-23",
+   "alchemist-attack-24",
+   "alchemist-attack-25",
+   "alchemist-attack-26",
+   "alchemist-attack-27",
+   "alchemist-attack-28",
+   "alchemist-attack-29",
+   "alchemist-attack-30",
+   "alchemist-attack-31",
+   "alchemist-attack-32",
+   "alchemist-attack-33",
+   "alchemist-attack-34",
+   "alchemist-attack-35"
+  ]
+ },
+ "meta": {
+  "image": "alchemist-attack.png",
+  "size": {
+   "w": 2988,
+   "h": 96
+  },
+  "scale": "1"
+ }
+}
