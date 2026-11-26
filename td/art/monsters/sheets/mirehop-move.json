@@ -1,0 +1,206 @@
+{
+ "frames": {
+  "mirehop-move-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-01": {
+   "frame": {
+    "x": 91,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-02": {
+   "frame": {
+    "x": 182,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-03": {
+   "frame": {
+    "x": 273,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-04": {
+   "frame": {
+    "x": 364,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-05": {
+   "frame": {
+    "x": 455,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-06": {
+   "frame": {
+    "x": 546,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-07": {
+   "frame": {
+    "x": 637,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-08": {
+   "frame": {
+    "x": 728,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "mirehop-move-09": {
+   "frame": {
+    "x": 819,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "move": [
+   "mirehop-move-00",
+   "mirehop-move-01",
+   "mirehop-move-02",
+   "mirehop-move-03",
+   "mirehop-move-04",
+   "mirehop-move-05",
+   "mirehop-move-06",
+   "mirehop-move-07",
+   "mirehop-move-08",
+   "mirehop-move-09"
+  ]
+ },
+ "meta": {
+  "image": "mirehop-move.png",
+  "size": {
+   "w": 910,
+   "h": 96
+  },
+  "scale": "1"
+ }
+}

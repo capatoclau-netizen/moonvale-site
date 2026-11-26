@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "bogg-walk-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-01": {
+   "frame": {
+    "x": 215,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-02": {
+   "frame": {
+    "x": 430,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-03": {
+   "frame": {
+    "x": 645,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-04": {
+   "frame": {
+    "x": 860,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-05": {
+   "frame": {
+    "x": 1075,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-06": {
+   "frame": {
+    "x": 1290,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-07": {
+   "frame": {
+    "x": 1505,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-08": {
+   "frame": {
+    "x": 1720,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-09": {
+   "frame": {
+    "x": 1935,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-10": {
+   "frame": {
+    "x": 2150,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-11": {
+   "frame": {
+    "x": 2365,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-12": {
+   "frame": {
+    "x": 2580,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-13": {
+   "frame": {
+    "x": 2795,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-14": {
+   "frame": {
+    "x": 3010,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-15": {
+   "frame": {
+    "x": 3225,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-16": {
+   "frame": {
+    "x": 3440,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-17": {
+   "frame": {
+    "x": 3655,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-18": {
+   "frame": {
+    "x": 0,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-19": {
+   "frame": {
+    "x": 215,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-20": {
+   "frame": {
+    "x": 430,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-21": {
+   "frame": {
+    "x": 645,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-22": {
+   "frame": {
+    "x": 860,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-23": {
+   "frame": {
+    "x": 1075,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-24": {
+   "frame": {
+    "x": 1290,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-25": {
+   "frame": {
+    "x": 1505,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-26": {
+   "frame": {
+    "x": 1720,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-27": {
+   "frame": {
+    "x": 1935,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-28": {
+   "frame": {
+    "x": 2150,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  },
+  "bogg-walk-29": {
+   "frame": {
+    "x": 2365,
+    "y": 148,
+    "w": 215,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 215,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 215,
+    "h": 148
+   }
+  }
+ },
+ "animations": {
+  "walk": [
+   "bogg-walk-00",
+   "bogg-walk-01",
+   "bogg-walk-02",
+   "bogg-walk-03",
+   "bogg-walk-04",
+   "bogg-walk-05",
+   "bogg-walk-06",
+   "bogg-walk-07",
+   "bogg-walk-08",
+   "bogg-walk-09",
+   "bogg-walk-10",
+   "bogg-walk-11",
+   "bogg-walk-12",
+   "bogg-walk-13",
+   "bogg-walk-14",
+   "bogg-walk-15",
+   "bogg-walk-16",
+   "bogg-walk-17",
+   "bogg-walk-18",
+   "bogg-walk-19",
+   "bogg-walk-20",
+   "bogg-walk-21",
+   "bogg-walk-22",
+   "bogg-walk-23",
+   "bogg-walk-24",
+   "bogg-walk-25",
+   "bogg-walk-26",
+   "bogg-walk-27",
+   "bogg-walk-28",
+   "bogg-walk-29"
+  ]
+ },
+ "meta": {
+  "image": "bogg-walk.png",
+  "size": {
+   "w": 3870,
+   "h": 296
+  },
+  "scale": "1"
+ }
+}

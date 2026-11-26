@@ -1,0 +1,586 @@
+{
+ "frames": {
+  "silkara-move-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-01": {
+   "frame": {
+    "x": 135,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-02": {
+   "frame": {
+    "x": 270,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-03": {
+   "frame": {
+    "x": 405,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-04": {
+   "frame": {
+    "x": 540,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-05": {
+   "frame": {
+    "x": 675,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-06": {
+   "frame": {
+    "x": 810,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-07": {
+   "frame": {
+    "x": 945,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-08": {
+   "frame": {
+    "x": 1080,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-09": {
+   "frame": {
+    "x": 1215,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-10": {
+   "frame": {
+    "x": 1350,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-11": {
+   "frame": {
+    "x": 1485,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-12": {
+   "frame": {
+    "x": 1620,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-13": {
+   "frame": {
+    "x": 1755,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-14": {
+   "frame": {
+    "x": 1890,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-15": {
+   "frame": {
+    "x": 2025,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-16": {
+   "frame": {
+    "x": 2160,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-17": {
+   "frame": {
+    "x": 2295,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-18": {
+   "frame": {
+    "x": 2430,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-19": {
+   "frame": {
+    "x": 2565,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-20": {
+   "frame": {
+    "x": 2700,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-21": {
+   "frame": {
+    "x": 2835,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-22": {
+   "frame": {
+    "x": 2970,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-23": {
+   "frame": {
+    "x": 3105,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-24": {
+   "frame": {
+    "x": 3240,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-25": {
+   "frame": {
+    "x": 3375,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-26": {
+   "frame": {
+    "x": 3510,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-27": {
+   "frame": {
+    "x": 3645,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-28": {
+   "frame": {
+    "x": 3780,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  },
+  "silkara-move-29": {
+   "frame": {
+    "x": 0,
+    "y": 96,
+    "w": 135,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 135,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 135,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "move": [
+   "silkara-move-00",
+   "silkara-move-01",
+   "silkara-move-02",
+   "silkara-move-03",
+   "silkara-move-04",
+   "silkara-move-05",
+   "silkara-move-06",
+   "silkara-move-07",
+   "silkara-move-08",
+   "silkara-move-09",
+   "silkara-move-10",
+   "silkara-move-11",
+   "silkara-move-12",
+   "silkara-move-13",
+   "silkara-move-14",
+   "silkara-move-15",
+   "silkara-move-16",
+   "silkara-move-17",
+   "silkara-move-18",
+   "silkara-move-19",
+   "silkara-move-20",
+   "silkara-move-21",
+   "silkara-move-22",
+   "silkara-move-23",
+   "silkara-move-24",
+   "silkara-move-25",
+   "silkara-move-26",
+   "silkara-move-27",
+   "silkara-move-28",
+   "silkara-move-29"
+  ]
+ },
+ "meta": {
+  "image": "silkara-move.png",
+  "size": {
+   "w": 3915,
+   "h": 192
+  },
+  "scale": "1"
+ }
+}

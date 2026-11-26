@@ -1,0 +1,244 @@
+{
+ "frames": {
+  "mudshell-move-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-01": {
+   "frame": {
+    "x": 111,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-02": {
+   "frame": {
+    "x": 222,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-03": {
+   "frame": {
+    "x": 333,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-04": {
+   "frame": {
+    "x": 444,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-05": {
+   "frame": {
+    "x": 555,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-06": {
+   "frame": {
+    "x": 666,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-07": {
+   "frame": {
+    "x": 777,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-08": {
+   "frame": {
+    "x": 888,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-09": {
+   "frame": {
+    "x": 999,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-10": {
+   "frame": {
+    "x": 1110,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  },
+  "mudshell-move-11": {
+   "frame": {
+    "x": 1221,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 111,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 111,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "move": [
+   "mudshell-move-00",
+   "mudshell-move-01",
+   "mudshell-move-02",
+   "mudshell-move-03",
+   "mudshell-move-04",
+   "mudshell-move-05",
+   "mudshell-move-06",
+   "mudshell-move-07",
+   "mudshell-move-08",
+   "mudshell-move-09",
+   "mudshell-move-10",
+   "mudshell-move-11"
+  ]
+ },
+ "meta": {
+  "image": "mudshell-move.png",
+  "size": {
+   "w": 1332,
+   "h": 96
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,719 @@
+{
+ "frames": {
+  "abysswarden-walk-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-01": {
+   "frame": {
+    "x": 139,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-02": {
+   "frame": {
+    "x": 278,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-03": {
+   "frame": {
+    "x": 417,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-04": {
+   "frame": {
+    "x": 556,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-05": {
+   "frame": {
+    "x": 695,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-06": {
+   "frame": {
+    "x": 834,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-07": {
+   "frame": {
+    "x": 973,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-08": {
+   "frame": {
+    "x": 1112,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-09": {
+   "frame": {
+    "x": 1251,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-10": {
+   "frame": {
+    "x": 1390,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-11": {
+   "frame": {
+    "x": 1529,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-12": {
+   "frame": {
+    "x": 1668,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-13": {
+   "frame": {
+    "x": 1807,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-14": {
+   "frame": {
+    "x": 1946,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-15": {
+   "frame": {
+    "x": 2085,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-16": {
+   "frame": {
+    "x": 2224,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-17": {
+   "frame": {
+    "x": 2363,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-18": {
+   "frame": {
+    "x": 2502,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-19": {
+   "frame": {
+    "x": 2641,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-20": {
+   "frame": {
+    "x": 2780,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-21": {
+   "frame": {
+    "x": 2919,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-22": {
+   "frame": {
+    "x": 3058,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-23": {
+   "frame": {
+    "x": 3197,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-24": {
+   "frame": {
+    "x": 3336,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-25": {
+   "frame": {
+    "x": 3475,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-26": {
+   "frame": {
+    "x": 3614,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-27": {
+   "frame": {
+    "x": 3753,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-28": {
+   "frame": {
+    "x": 0,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-29": {
+   "frame": {
+    "x": 139,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-30": {
+   "frame": {
+    "x": 278,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-31": {
+   "frame": {
+    "x": 417,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-32": {
+   "frame": {
+    "x": 556,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-33": {
+   "frame": {
+    "x": 695,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-34": {
+   "frame": {
+    "x": 834,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-35": {
+   "frame": {
+    "x": 973,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  },
+  "abysswarden-walk-36": {
+   "frame": {
+    "x": 1112,
+    "y": 148,
+    "w": 139,
+    "h": 148
+   },
+   "sourceSize": {
+    "w": 139,
+    "h": 148
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 139,
+    "h": 148
+   }
+  }
+ },
+ "animations": {
+  "walk": [
+   "abysswarden-walk-00",
+   "abysswarden-walk-01",
+   "abysswarden-walk-02",
+   "abysswarden-walk-03",
+   "abysswarden-walk-04",
+   "abysswarden-walk-05",
+   "abysswarden-walk-06",
+   "abysswarden-walk-07",
+   "abysswarden-walk-08",
+   "abysswarden-walk-09",
+   "abysswarden-walk-10",
+   "abysswarden-walk-11",
+   "abysswarden-walk-12",
+   "abysswarden-walk-13",
+   "abysswarden-walk-14",
+   "abysswarden-walk-15",
+   "abysswarden-walk-16",
+   "abysswarden-walk-17",
+   "abysswarden-walk-18",
+   "abysswarden-walk-19",
+   "abysswarden-walk-20",
+   "abysswarden-walk-21",
+   "abysswarden-walk-22",
+   "abysswarden-walk-23",
+   "abysswarden-walk-24",
+   "abysswarden-walk-25",
+   "abysswarden-walk-26",
+   "abysswarden-walk-27",
+   "abysswarden-walk-28",
+   "abysswarden-walk-29",
+   "abysswarden-walk-30",
+   "abysswarden-walk-31",
+   "abysswarden-walk-32",
+   "abysswarden-walk-33",
+   "abysswarden-walk-34",
+   "abysswarden-walk-35",
+   "abysswarden-walk-36"
+  ]
+ },
+ "meta": {
+  "image": "abysswarden-walk.png",
+  "size": {
+   "w": 3892,
+   "h": 296
+  },
+  "scale": "1"
+ }
+}
