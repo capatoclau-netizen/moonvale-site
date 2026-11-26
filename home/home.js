@@ -27,7 +27,7 @@ function detect() {
 
 async function load(l) {
   if (!cache[l]) {
-    const r = await fetch(`/home/i18n/${l}.json?v=1f786245e8`);
+    const r = await fetch(`/home/i18n/${l}.json?v=ebeb1bc637`);
     if (!r.ok) throw new Error(`i18n ${l}: ${r.status}`);
     cache[l] = await r.json();
   }
