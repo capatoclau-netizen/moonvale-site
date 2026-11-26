@@ -1,0 +1,723 @@
+{
+ "frames": {
+  "artificer-p3-attack-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-01": {
+   "frame": {
+    "x": 213,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-02": {
+   "frame": {
+    "x": 426,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-03": {
+   "frame": {
+    "x": 639,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-04": {
+   "frame": {
+    "x": 852,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-05": {
+   "frame": {
+    "x": 1065,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-06": {
+   "frame": {
+    "x": 1278,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-07": {
+   "frame": {
+    "x": 1491,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-08": {
+   "frame": {
+    "x": 1704,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-09": {
+   "frame": {
+    "x": 1917,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-10": {
+   "frame": {
+    "x": 2130,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-11": {
+   "frame": {
+    "x": 2343,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-12": {
+   "frame": {
+    "x": 2556,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-13": {
+   "frame": {
+    "x": 2769,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-14": {
+   "frame": {
+    "x": 2982,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-15": {
+   "frame": {
+    "x": 3195,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-16": {
+   "frame": {
+    "x": 3408,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-17": {
+   "frame": {
+    "x": 3621,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-18": {
+   "frame": {
+    "x": 3834,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-19": {
+   "frame": {
+    "x": 0,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-20": {
+   "frame": {
+    "x": 213,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-21": {
+   "frame": {
+    "x": 426,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-22": {
+   "frame": {
+    "x": 639,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-23": {
+   "frame": {
+    "x": 852,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-24": {
+   "frame": {
+    "x": 1065,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-25": {
+   "frame": {
+    "x": 1278,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-26": {
+   "frame": {
+    "x": 1491,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-27": {
+   "frame": {
+    "x": 1704,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-28": {
+   "frame": {
+    "x": 1917,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-29": {
+   "frame": {
+    "x": 2130,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-30": {
+   "frame": {
+    "x": 2343,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-31": {
+   "frame": {
+    "x": 2556,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-32": {
+   "frame": {
+    "x": 2769,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-33": {
+   "frame": {
+    "x": 2982,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-34": {
+   "frame": {
+    "x": 3195,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-35": {
+   "frame": {
+    "x": 3408,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  },
+  "artificer-p3-attack-36": {
+   "frame": {
+    "x": 3621,
+    "y": 114,
+    "w": 213,
+    "h": 114
+   },
+   "sourceSize": {
+    "w": 213,
+    "h": 114
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 213,
+    "h": 114
+   }
+  }
+ },
+ "animations": {
+  "attack": [
+   "artificer-p3-attack-00",
+   "artificer-p3-attack-01",
+   "artificer-p3-attack-02",
+   "artificer-p3-attack-03",
+   "artificer-p3-attack-04",
+   "artificer-p3-attack-05",
+   "artificer-p3-attack-06",
+   "artificer-p3-attack-07",
+   "artificer-p3-attack-08",
+   "artificer-p3-attack-09",
+   "artificer-p3-attack-10",
+   "artificer-p3-attack-11",
+   "artificer-p3-attack-12",
+   "artificer-p3-attack-13",
+   "artificer-p3-attack-14",
+   "artificer-p3-attack-15",
+   "artificer-p3-attack-16",
+   "artificer-p3-attack-17",
+   "artificer-p3-attack-17",
+   "artificer-p3-attack-16",
+   "artificer-p3-attack-15",
+   "artificer-p3-attack-14",
+   "artificer-p3-attack-13",
+   "artificer-p3-attack-12",
+   "artificer-p3-attack-11",
+   "artificer-p3-attack-10",
+   "artificer-p3-attack-09",
+   "artificer-p3-attack-08",
+   "artificer-p3-attack-07",
+   "artificer-p3-attack-06",
+   "artificer-p3-attack-05",
+   "artificer-p3-attack-04",
+   "artificer-p3-attack-03",
+   "artificer-p3-attack-02",
+   "artificer-p3-attack-01",
+   "artificer-p3-attack-00"
+  ]
+ },
+ "meta": {
+  "image": "artificer-p3-attack.png",
+  "size": {
+   "w": 4047,
+   "h": 228
+  },
+  "scale": "1",
+  "feet": {
+   "x": 0.211,
+   "y": 0.991
+  },
+  "source": "Higgs 26/11: artificer moonlit skin (gpt_image_2_6 still + kling3_0_turbo clip, scripts/skin-reslice.py DESPECK=joined)"
+ }
+}

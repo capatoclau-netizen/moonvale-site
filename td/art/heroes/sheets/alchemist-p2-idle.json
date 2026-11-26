@@ -1,0 +1,724 @@
+{
+ "frames": {
+  "alchemist-p2-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-01": {
+   "frame": {
+    "x": 62,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-02": {
+   "frame": {
+    "x": 124,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-03": {
+   "frame": {
+    "x": 186,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-04": {
+   "frame": {
+    "x": 248,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-05": {
+   "frame": {
+    "x": 310,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-06": {
+   "frame": {
+    "x": 372,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-07": {
+   "frame": {
+    "x": 434,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-08": {
+   "frame": {
+    "x": 496,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-09": {
+   "frame": {
+    "x": 558,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-10": {
+   "frame": {
+    "x": 620,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-11": {
+   "frame": {
+    "x": 682,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-12": {
+   "frame": {
+    "x": 744,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-13": {
+   "frame": {
+    "x": 806,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-14": {
+   "frame": {
+    "x": 868,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-15": {
+   "frame": {
+    "x": 930,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-16": {
+   "frame": {
+    "x": 992,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-17": {
+   "frame": {
+    "x": 1054,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-18": {
+   "frame": {
+    "x": 1116,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-19": {
+   "frame": {
+    "x": 1178,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-20": {
+   "frame": {
+    "x": 1240,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-21": {
+   "frame": {
+    "x": 1302,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-22": {
+   "frame": {
+    "x": 1364,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-23": {
+   "frame": {
+    "x": 1426,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-24": {
+   "frame": {
+    "x": 1488,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-25": {
+   "frame": {
+    "x": 1550,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-26": {
+   "frame": {
+    "x": 1612,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-27": {
+   "frame": {
+    "x": 1674,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-28": {
+   "frame": {
+    "x": 1736,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-29": {
+   "frame": {
+    "x": 1798,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-30": {
+   "frame": {
+    "x": 1860,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-31": {
+   "frame": {
+    "x": 1922,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-32": {
+   "frame": {
+    "x": 1984,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-33": {
+   "frame": {
+    "x": 2046,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-34": {
+   "frame": {
+    "x": 2108,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-35": {
+   "frame": {
+    "x": 2170,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  },
+  "alchemist-p2-idle-36": {
+   "frame": {
+    "x": 2232,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 62,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 62,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "alchemist-p2-idle-00",
+   "alchemist-p2-idle-01",
+   "alchemist-p2-idle-02",
+   "alchemist-p2-idle-03",
+   "alchemist-p2-idle-04",
+   "alchemist-p2-idle-05",
+   "alchemist-p2-idle-06",
+   "alchemist-p2-idle-07",
+   "alchemist-p2-idle-08",
+   "alchemist-p2-idle-09",
+   "alchemist-p2-idle-10",
+   "alchemist-p2-idle-11",
+   "alchemist-p2-idle-12",
+   "alchemist-p2-idle-13",
+   "alchemist-p2-idle-14",
+   "alchemist-p2-idle-15",
+   "alchemist-p2-idle-16",
+   "alchemist-p2-idle-17",
+   "alchemist-p2-idle-18",
+   "alchemist-p2-idle-19",
+   "alchemist-p2-idle-20",
+   "alchemist-p2-idle-21",
+   "alchemist-p2-idle-22",
+   "alchemist-p2-idle-23",
+   "alchemist-p2-idle-24",
+   "alchemist-p2-idle-25",
+   "alchemist-p2-idle-26",
+   "alchemist-p2-idle-27",
+   "alchemist-p2-idle-28",
+   "alchemist-p2-idle-29",
+   "alchemist-p2-idle-30",
+   "alchemist-p2-idle-31",
+   "alchemist-p2-idle-32",
+   "alchemist-p2-idle-33",
+   "alchemist-p2-idle-34",
+   "alchemist-p2-idle-35",
+   "alchemist-p2-idle-36"
+  ]
+ },
+ "meta": {
+  "image": "alchemist-p2-idle.png",
+  "size": {
+   "w": 2294,
+   "h": 96
+  },
+  "scale": "1",
+  "feet": {
+   "x": 0.597,
+   "y": 0.969
+  },
+  "source": "Higgs 26/11: alchemist abyss skin (gpt_image_2_6 still + kling3_0_turbo clip, scripts/skin-reslice.py DESPECK=joined)"
+ }
+}

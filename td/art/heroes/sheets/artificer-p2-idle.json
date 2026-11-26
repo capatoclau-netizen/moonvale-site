@@ -1,0 +1,724 @@
+{
+ "frames": {
+  "artificer-p2-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-01": {
+   "frame": {
+    "x": 68,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-02": {
+   "frame": {
+    "x": 136,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-03": {
+   "frame": {
+    "x": 204,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-04": {
+   "frame": {
+    "x": 272,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-05": {
+   "frame": {
+    "x": 340,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-06": {
+   "frame": {
+    "x": 408,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-07": {
+   "frame": {
+    "x": 476,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-08": {
+   "frame": {
+    "x": 544,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-09": {
+   "frame": {
+    "x": 612,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-10": {
+   "frame": {
+    "x": 680,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-11": {
+   "frame": {
+    "x": 748,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-12": {
+   "frame": {
+    "x": 816,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-13": {
+   "frame": {
+    "x": 884,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-14": {
+   "frame": {
+    "x": 952,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-15": {
+   "frame": {
+    "x": 1020,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-16": {
+   "frame": {
+    "x": 1088,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-17": {
+   "frame": {
+    "x": 1156,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-18": {
+   "frame": {
+    "x": 1224,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-19": {
+   "frame": {
+    "x": 1292,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-20": {
+   "frame": {
+    "x": 1360,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-21": {
+   "frame": {
+    "x": 1428,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-22": {
+   "frame": {
+    "x": 1496,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-23": {
+   "frame": {
+    "x": 1564,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-24": {
+   "frame": {
+    "x": 1632,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-25": {
+   "frame": {
+    "x": 1700,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-26": {
+   "frame": {
+    "x": 1768,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-27": {
+   "frame": {
+    "x": 1836,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-28": {
+   "frame": {
+    "x": 1904,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-29": {
+   "frame": {
+    "x": 1972,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-30": {
+   "frame": {
+    "x": 2040,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-31": {
+   "frame": {
+    "x": 2108,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-32": {
+   "frame": {
+    "x": 2176,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-33": {
+   "frame": {
+    "x": 2244,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-34": {
+   "frame": {
+    "x": 2312,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-35": {
+   "frame": {
+    "x": 2380,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  },
+  "artificer-p2-idle-36": {
+   "frame": {
+    "x": 2448,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 68,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 68,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "artificer-p2-idle-00",
+   "artificer-p2-idle-01",
+   "artificer-p2-idle-02",
+   "artificer-p2-idle-03",
+   "artificer-p2-idle-04",
+   "artificer-p2-idle-05",
+   "artificer-p2-idle-06",
+   "artificer-p2-idle-07",
+   "artificer-p2-idle-08",
+   "artificer-p2-idle-09",
+   "artificer-p2-idle-10",
+   "artificer-p2-idle-11",
+   "artificer-p2-idle-12",
+   "artificer-p2-idle-13",
+   "artificer-p2-idle-14",
+   "artificer-p2-idle-15",
+   "artificer-p2-idle-16",
+   "artificer-p2-idle-17",
+   "artificer-p2-idle-18",
+   "artificer-p2-idle-19",
+   "artificer-p2-idle-20",
+   "artificer-p2-idle-21",
+   "artificer-p2-idle-22",
+   "artificer-p2-idle-23",
+   "artificer-p2-idle-24",
+   "artificer-p2-idle-25",
+   "artificer-p2-idle-26",
+   "artificer-p2-idle-27",
+   "artificer-p2-idle-28",
+   "artificer-p2-idle-29",
+   "artificer-p2-idle-30",
+   "artificer-p2-idle-31",
+   "artificer-p2-idle-32",
+   "artificer-p2-idle-33",
+   "artificer-p2-idle-34",
+   "artificer-p2-idle-35",
+   "artificer-p2-idle-36"
+  ]
+ },
+ "meta": {
+  "image": "artificer-p2-idle.png",
+  "size": {
+   "w": 2516,
+   "h": 96
+  },
+  "scale": "1",
+  "feet": {
+   "x": 0.507,
+   "y": 0.979
+  },
+  "source": "Higgs 26/11: artificer fire skin (gpt_image_2_6 still + kling3_0_turbo clip, scripts/skin-reslice.py DESPECK=joined)"
+ }
+}
