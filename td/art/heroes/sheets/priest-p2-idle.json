@@ -1,0 +1,724 @@
+{
+ "frames": {
+  "priest-p2-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-01": {
+   "frame": {
+    "x": 91,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-02": {
+   "frame": {
+    "x": 182,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-03": {
+   "frame": {
+    "x": 273,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-04": {
+   "frame": {
+    "x": 364,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-05": {
+   "frame": {
+    "x": 455,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-06": {
+   "frame": {
+    "x": 546,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-07": {
+   "frame": {
+    "x": 637,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-08": {
+   "frame": {
+    "x": 728,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-09": {
+   "frame": {
+    "x": 819,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-10": {
+   "frame": {
+    "x": 910,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-11": {
+   "frame": {
+    "x": 1001,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-12": {
+   "frame": {
+    "x": 1092,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-13": {
+   "frame": {
+    "x": 1183,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-14": {
+   "frame": {
+    "x": 1274,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-15": {
+   "frame": {
+    "x": 1365,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-16": {
+   "frame": {
+    "x": 1456,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-17": {
+   "frame": {
+    "x": 1547,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-18": {
+   "frame": {
+    "x": 1638,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-19": {
+   "frame": {
+    "x": 1729,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-20": {
+   "frame": {
+    "x": 1820,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-21": {
+   "frame": {
+    "x": 1911,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-22": {
+   "frame": {
+    "x": 2002,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-23": {
+   "frame": {
+    "x": 2093,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-24": {
+   "frame": {
+    "x": 2184,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-25": {
+   "frame": {
+    "x": 2275,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-26": {
+   "frame": {
+    "x": 2366,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-27": {
+   "frame": {
+    "x": 2457,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-28": {
+   "frame": {
+    "x": 2548,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-29": {
+   "frame": {
+    "x": 2639,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-30": {
+   "frame": {
+    "x": 2730,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-31": {
+   "frame": {
+    "x": 2821,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-32": {
+   "frame": {
+    "x": 2912,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-33": {
+   "frame": {
+    "x": 3003,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-34": {
+   "frame": {
+    "x": 3094,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-35": {
+   "frame": {
+    "x": 3185,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  },
+  "priest-p2-idle-36": {
+   "frame": {
+    "x": 3276,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 91,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 91,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "priest-p2-idle-00",
+   "priest-p2-idle-01",
+   "priest-p2-idle-02",
+   "priest-p2-idle-03",
+   "priest-p2-idle-04",
+   "priest-p2-idle-05",
+   "priest-p2-idle-06",
+   "priest-p2-idle-07",
+   "priest-p2-idle-08",
+   "priest-p2-idle-09",
+   "priest-p2-idle-10",
+   "priest-p2-idle-11",
+   "priest-p2-idle-12",
+   "priest-p2-idle-13",
+   "priest-p2-idle-14",
+   "priest-p2-idle-15",
+   "priest-p2-idle-16",
+   "priest-p2-idle-17",
+   "priest-p2-idle-18",
+   "priest-p2-idle-19",
+   "priest-p2-idle-20",
+   "priest-p2-idle-21",
+   "priest-p2-idle-22",
+   "priest-p2-idle-23",
+   "priest-p2-idle-24",
+   "priest-p2-idle-25",
+   "priest-p2-idle-26",
+   "priest-p2-idle-27",
+   "priest-p2-idle-28",
+   "priest-p2-idle-29",
+   "priest-p2-idle-30",
+   "priest-p2-idle-31",
+   "priest-p2-idle-32",
+   "priest-p2-idle-33",
+   "priest-p2-idle-34",
+   "priest-p2-idle-35",
+   "priest-p2-idle-36"
+  ]
+ },
+ "meta": {
+  "image": "priest-p2-idle.png",
+  "size": {
+   "w": 3367,
+   "h": 96
+  },
+  "scale": "1",
+  "feet": {
+   "x": 0.379,
+   "y": 1.0
+  },
+  "source": "Moonvale heroes/sheets/priest-moonlit-idle"
+ }
+}

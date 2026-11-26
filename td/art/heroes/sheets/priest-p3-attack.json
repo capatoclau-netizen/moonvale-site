@@ -1,0 +1,724 @@
+{
+ "frames": {
+  "priest-p3-attack-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-01": {
+   "frame": {
+    "x": 299,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-02": {
+   "frame": {
+    "x": 598,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-03": {
+   "frame": {
+    "x": 897,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-04": {
+   "frame": {
+    "x": 1196,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-05": {
+   "frame": {
+    "x": 1495,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-06": {
+   "frame": {
+    "x": 1794,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-07": {
+   "frame": {
+    "x": 2093,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-08": {
+   "frame": {
+    "x": 2392,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-09": {
+   "frame": {
+    "x": 2691,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-10": {
+   "frame": {
+    "x": 2990,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-11": {
+   "frame": {
+    "x": 3289,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-12": {
+   "frame": {
+    "x": 3588,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-13": {
+   "frame": {
+    "x": 0,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-14": {
+   "frame": {
+    "x": 299,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-15": {
+   "frame": {
+    "x": 598,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-16": {
+   "frame": {
+    "x": 897,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-17": {
+   "frame": {
+    "x": 1196,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-18": {
+   "frame": {
+    "x": 1495,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-19": {
+   "frame": {
+    "x": 1794,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-20": {
+   "frame": {
+    "x": 2093,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-21": {
+   "frame": {
+    "x": 2392,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-22": {
+   "frame": {
+    "x": 2691,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-23": {
+   "frame": {
+    "x": 2990,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-24": {
+   "frame": {
+    "x": 3289,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-25": {
+   "frame": {
+    "x": 3588,
+    "y": 171,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-26": {
+   "frame": {
+    "x": 0,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-27": {
+   "frame": {
+    "x": 299,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-28": {
+   "frame": {
+    "x": 598,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-29": {
+   "frame": {
+    "x": 897,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-30": {
+   "frame": {
+    "x": 1196,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-31": {
+   "frame": {
+    "x": 1495,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-32": {
+   "frame": {
+    "x": 1794,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-33": {
+   "frame": {
+    "x": 2093,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-34": {
+   "frame": {
+    "x": 2392,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-35": {
+   "frame": {
+    "x": 2691,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  },
+  "priest-p3-attack-36": {
+   "frame": {
+    "x": 2990,
+    "y": 342,
+    "w": 299,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 299,
+    "h": 171
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 299,
+    "h": 171
+   }
+  }
+ },
+ "animations": {
+  "attack": [
+   "priest-p3-attack-00",
+   "priest-p3-attack-01",
+   "priest-p3-attack-02",
+   "priest-p3-attack-03",
+   "priest-p3-attack-04",
+   "priest-p3-attack-05",
+   "priest-p3-attack-06",
+   "priest-p3-attack-07",
+   "priest-p3-attack-08",
+   "priest-p3-attack-09",
+   "priest-p3-attack-10",
+   "priest-p3-attack-11",
+   "priest-p3-attack-12",
+   "priest-p3-attack-13",
+   "priest-p3-attack-14",
+   "priest-p3-attack-15",
+   "priest-p3-attack-16",
+   "priest-p3-attack-17",
+   "priest-p3-attack-18",
+   "priest-p3-attack-19",
+   "priest-p3-attack-20",
+   "priest-p3-attack-21",
+   "priest-p3-attack-22",
+   "priest-p3-attack-23",
+   "priest-p3-attack-24",
+   "priest-p3-attack-25",
+   "priest-p3-attack-26",
+   "priest-p3-attack-27",
+   "priest-p3-attack-28",
+   "priest-p3-attack-29",
+   "priest-p3-attack-30",
+   "priest-p3-attack-31",
+   "priest-p3-attack-32",
+   "priest-p3-attack-33",
+   "priest-p3-attack-34",
+   "priest-p3-attack-35",
+   "priest-p3-attack-36"
+  ]
+ },
+ "meta": {
+  "image": "priest-p3-attack.png",
+  "size": {
+   "w": 3887,
+   "h": 513
+  },
+  "scale": "1",
+  "feet": {
+   "x": 0.385,
+   "y": 0.865
+  },
+  "source": "Moonvale heroes/sheets/priest-abyss-attack"
+ }
+}

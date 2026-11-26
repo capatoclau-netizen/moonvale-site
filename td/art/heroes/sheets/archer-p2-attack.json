@@ -1,0 +1,724 @@
+{
+ "frames": {
+  "archer-p2-attack-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-01": {
+   "frame": {
+    "x": 193,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-02": {
+   "frame": {
+    "x": 386,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-03": {
+   "frame": {
+    "x": 579,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-04": {
+   "frame": {
+    "x": 772,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-05": {
+   "frame": {
+    "x": 965,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-06": {
+   "frame": {
+    "x": 1158,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-07": {
+   "frame": {
+    "x": 1351,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-08": {
+   "frame": {
+    "x": 1544,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-09": {
+   "frame": {
+    "x": 1737,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-10": {
+   "frame": {
+    "x": 1930,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-11": {
+   "frame": {
+    "x": 2123,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-12": {
+   "frame": {
+    "x": 2316,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-13": {
+   "frame": {
+    "x": 2509,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-14": {
+   "frame": {
+    "x": 2702,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-15": {
+   "frame": {
+    "x": 2895,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-16": {
+   "frame": {
+    "x": 3088,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-17": {
+   "frame": {
+    "x": 3281,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-18": {
+   "frame": {
+    "x": 3474,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-19": {
+   "frame": {
+    "x": 3667,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-20": {
+   "frame": {
+    "x": 3860,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-21": {
+   "frame": {
+    "x": 0,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-22": {
+   "frame": {
+    "x": 193,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-23": {
+   "frame": {
+    "x": 386,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-24": {
+   "frame": {
+    "x": 579,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-25": {
+   "frame": {
+    "x": 772,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-26": {
+   "frame": {
+    "x": 965,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-27": {
+   "frame": {
+    "x": 1158,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-28": {
+   "frame": {
+    "x": 1351,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-29": {
+   "frame": {
+    "x": 1544,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-30": {
+   "frame": {
+    "x": 1737,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-31": {
+   "frame": {
+    "x": 1930,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-32": {
+   "frame": {
+    "x": 2123,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-33": {
+   "frame": {
+    "x": 2316,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-34": {
+   "frame": {
+    "x": 2509,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-35": {
+   "frame": {
+    "x": 2702,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  },
+  "archer-p2-attack-36": {
+   "frame": {
+    "x": 2895,
+    "y": 98,
+    "w": 193,
+    "h": 98
+   },
+   "sourceSize": {
+    "w": 193,
+    "h": 98
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 193,
+    "h": 98
+   }
+  }
+ },
+ "animations": {
+  "attack": [
+   "archer-p2-attack-00",
+   "archer-p2-attack-01",
+   "archer-p2-attack-02",
+   "archer-p2-attack-03",
+   "archer-p2-attack-04",
+   "archer-p2-attack-05",
+   "archer-p2-attack-06",
+   "archer-p2-attack-07",
+   "archer-p2-attack-08",
+   "archer-p2-attack-09",
+   "archer-p2-attack-10",
+   "archer-p2-attack-11",
+   "archer-p2-attack-12",
+   "archer-p2-attack-13",
+   "archer-p2-attack-14",
+   "archer-p2-attack-15",
+   "archer-p2-attack-16",
+   "archer-p2-attack-17",
+   "archer-p2-attack-18",
+   "archer-p2-attack-19",
+   "archer-p2-attack-20",
+   "archer-p2-attack-21",
+   "archer-p2-attack-22",
+   "archer-p2-attack-23",
+   "archer-p2-attack-24",
+   "archer-p2-attack-25",
+   "archer-p2-attack-26",
+   "archer-p2-attack-27",
+   "archer-p2-attack-28",
+   "archer-p2-attack-29",
+   "archer-p2-attack-30",
+   "archer-p2-attack-31",
+   "archer-p2-attack-32",
+   "archer-p2-attack-33",
+   "archer-p2-attack-34",
+   "archer-p2-attack-35",
+   "archer-p2-attack-36"
+  ]
+ },
+ "meta": {
+  "image": "archer-p2-attack.png",
+  "size": {
+   "w": 4053,
+   "h": 196
+  },
+  "scale": "1",
+  "feet": {
+   "x": 0.236,
+   "y": 1.0
+  },
+  "source": "Moonvale heroes/sheets/archer-moonlit-attack"
+ }
+}

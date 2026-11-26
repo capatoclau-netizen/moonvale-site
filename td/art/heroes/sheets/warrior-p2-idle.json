@@ -1,0 +1,724 @@
+{
+ "frames": {
+  "warrior-p2-idle-00": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-01": {
+   "frame": {
+    "x": 105,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-02": {
+   "frame": {
+    "x": 210,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-03": {
+   "frame": {
+    "x": 315,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-04": {
+   "frame": {
+    "x": 420,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-05": {
+   "frame": {
+    "x": 525,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-06": {
+   "frame": {
+    "x": 630,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-07": {
+   "frame": {
+    "x": 735,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-08": {
+   "frame": {
+    "x": 840,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-09": {
+   "frame": {
+    "x": 945,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-10": {
+   "frame": {
+    "x": 1050,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-11": {
+   "frame": {
+    "x": 1155,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-12": {
+   "frame": {
+    "x": 1260,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-13": {
+   "frame": {
+    "x": 1365,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-14": {
+   "frame": {
+    "x": 1470,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-15": {
+   "frame": {
+    "x": 1575,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-16": {
+   "frame": {
+    "x": 1680,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-17": {
+   "frame": {
+    "x": 1785,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-18": {
+   "frame": {
+    "x": 1890,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-19": {
+   "frame": {
+    "x": 1995,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-20": {
+   "frame": {
+    "x": 2100,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-21": {
+   "frame": {
+    "x": 2205,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-22": {
+   "frame": {
+    "x": 2310,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-23": {
+   "frame": {
+    "x": 2415,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-24": {
+   "frame": {
+    "x": 2520,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-25": {
+   "frame": {
+    "x": 2625,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-26": {
+   "frame": {
+    "x": 2730,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-27": {
+   "frame": {
+    "x": 2835,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-28": {
+   "frame": {
+    "x": 2940,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-29": {
+   "frame": {
+    "x": 3045,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-30": {
+   "frame": {
+    "x": 3150,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-31": {
+   "frame": {
+    "x": 3255,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-32": {
+   "frame": {
+    "x": 3360,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-33": {
+   "frame": {
+    "x": 3465,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-34": {
+   "frame": {
+    "x": 3570,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-35": {
+   "frame": {
+    "x": 3675,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  },
+  "warrior-p2-idle-36": {
+   "frame": {
+    "x": 3780,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 105,
+    "h": 96
+   },
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 105,
+    "h": 96
+   }
+  }
+ },
+ "animations": {
+  "idle": [
+   "warrior-p2-idle-00",
+   "warrior-p2-idle-01",
+   "warrior-p2-idle-02",
+   "warrior-p2-idle-03",
+   "warrior-p2-idle-04",
+   "warrior-p2-idle-05",
+   "warrior-p2-idle-06",
+   "warrior-p2-idle-07",
+   "warrior-p2-idle-08",
+   "warrior-p2-idle-09",
+   "warrior-p2-idle-10",
+   "warrior-p2-idle-11",
+   "warrior-p2-idle-12",
+   "warrior-p2-idle-13",
+   "warrior-p2-idle-14",
+   "warrior-p2-idle-15",
+   "warrior-p2-idle-16",
+   "warrior-p2-idle-17",
+   "warrior-p2-idle-18",
+   "warrior-p2-idle-19",
+   "warrior-p2-idle-20",
+   "warrior-p2-idle-21",
+   "warrior-p2-idle-22",
+   "warrior-p2-idle-23",
+   "warrior-p2-idle-24",
+   "warrior-p2-idle-25",
+   "warrior-p2-idle-26",
+   "warrior-p2-idle-27",
+   "warrior-p2-idle-28",
+   "warrior-p2-idle-29",
+   "warrior-p2-idle-30",
+   "warrior-p2-idle-31",
+   "warrior-p2-idle-32",
+   "warrior-p2-idle-33",
+   "warrior-p2-idle-34",
+   "warrior-p2-idle-35",
+   "warrior-p2-idle-36"
+  ]
+ },
+ "meta": {
+  "image": "warrior-p2-idle.png",
+  "size": {
+   "w": 3885,
+   "h": 96
+  },
+  "scale": "1",
+  "feet": {
+   "x": 0.329,
+   "y": 1.0
+  },
+  "source": "Moonvale heroes/sheets/warrior-fire-idle"
+ }
+}
